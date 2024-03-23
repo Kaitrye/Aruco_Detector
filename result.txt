@@ -1,0 +1,2540 @@
+IMG_1.jpg - detected 43 marker in DICT_4X4_250
+IMG_2.jpg - detected 43 marker in DICT_4X4_250
+IMG_3.jpg - not detected
+IMG_4.jpg - detected 43 marker in DICT_4X4_250
+IMG_5.jpg - detected 43 marker in DICT_4X4_250
+IMG_6.jpg - detected 43 marker in DICT_4X4_250
+IMG_7.jpg - detected 43 marker in DICT_4X4_250
+IMG_8.jpg - detected 43 marker in DICT_4X4_250
+IMG_9.jpg - detected 43 marker in DICT_4X4_250
+IMG_10.jpg - detected 43 marker in DICT_4X4_250
+IMG_11.jpg - detected 43 marker in DICT_4X4_250
+IMG_12.jpg - detected 43 marker in DICT_4X4_250
+IMG_13.jpg - detected 43 marker in DICT_4X4_250
+IMG_14.jpg - detected 43 marker in DICT_4X4_250
+IMG_15.jpg - detected 43 marker in DICT_4X4_250
+IMG_16.jpg - detected 43 marker in DICT_4X4_250
+IMG_17.jpg - not detected
+IMG_18.jpg - detected 12 marker in DICT_4X4_250
+IMG_19.jpg - detected 12 marker in DICT_4X4_250
+IMG_20.jpg - detected 12 marker in DICT_4X4_250
+IMG_21.jpg - detected 12 marker in DICT_4X4_250
+IMG_22.jpg - detected 12 marker in DICT_4X4_250
+IMG_23.jpg - detected 12 marker in DICT_4X4_250
+IMG_24.jpg - detected 12 marker in DICT_4X4_250
+IMG_25.jpg - detected 12 marker in DICT_4X4_250
+IMG_26.jpg - detected 12 marker in DICT_4X4_250
+IMG_27.jpg - detected 12 marker in DICT_4X4_250
+IMG_28.jpg - detected 12 marker in DICT_4X4_250
+IMG_29.jpg - detected 12 marker in DICT_4X4_250
+IMG_30.jpg - detected 12 marker in DICT_4X4_250
+IMG_31.jpg - detected 12 marker in DICT_4X4_250
+IMG_32.jpg - detected 12 marker in DICT_4X4_250
+IMG_33.jpg - detected 12 marker in DICT_4X4_250
+IMG_34.jpg - detected 12 marker in DICT_4X4_250
+IMG_35.jpg - detected 166 marker in DICT_4X4_250
+IMG_36.jpg - detected 166 marker in DICT_4X4_250
+IMG_37.jpg - detected 166 marker in DICT_4X4_250
+IMG_38.jpg - detected 166 marker in DICT_4X4_250
+IMG_39.jpg - detected 166 marker in DICT_4X4_250
+IMG_40.jpg - detected 166 marker in DICT_4X4_250
+IMG_41.jpg - detected 166 marker in DICT_4X4_250
+IMG_42.jpg - not detected
+IMG_43.jpg - detected 166 marker in DICT_4X4_250
+IMG_44.jpg - detected 166 marker in DICT_4X4_250
+IMG_45.jpg - not detected
+IMG_46.jpg - detected 166 marker in DICT_4X4_250
+IMG_47.jpg - detected 166 marker in DICT_4X4_250
+IMG_48.jpg - detected 166 marker in DICT_4X4_250
+IMG_49.jpg - detected 166 marker in DICT_4X4_250
+IMG_50.jpg - detected 166 marker in DICT_4X4_250
+IMG_51.jpg - detected 166 marker in DICT_4X4_250
+IMG_52.jpg - detected 166 marker in DICT_4X4_250
+IMG_53.jpg - detected 166 marker in DICT_4X4_250
+IMG_54.jpg - detected 166 marker in DICT_4X4_250
+IMG_55.jpg - detected 166 marker in DICT_4X4_250
+IMG_56.jpg - detected 166 marker in DICT_4X4_250
+IMG_57.jpg - detected 166 marker in DICT_4X4_250
+IMG_58.jpg - detected 102 marker in DICT_5X5_250
+IMG_59.jpg - detected 102 marker in DICT_5X5_250
+IMG_60.jpg - detected 102 marker in DICT_5X5_250
+IMG_61.jpg - detected 102 marker in DICT_5X5_250
+IMG_62.jpg - detected 102 marker in DICT_5X5_250
+IMG_63.jpg - detected 102 marker in DICT_5X5_250
+IMG_64.jpg - detected 102 marker in DICT_5X5_250
+IMG_65.jpg - not detected
+IMG_66.jpg - detected 102 marker in DICT_5X5_250
+IMG_67.jpg - detected 102 marker in DICT_5X5_250
+IMG_68.jpg - detected 102 marker in DICT_5X5_250
+IMG_69.jpg - detected 102 marker in DICT_5X5_250
+IMG_70.jpg - detected 102 marker in DICT_5X5_250
+IMG_71.jpg - detected 102 marker in DICT_5X5_250
+IMG_72.jpg - detected 102 marker in DICT_5X5_250
+IMG_73.jpg - detected 102 marker in DICT_5X5_250
+IMG_74.jpg - detected 102 marker in DICT_5X5_250
+IMG_75.jpg - detected 102 marker in DICT_5X5_250
+IMG_76.jpg - detected 102 marker in DICT_5X5_250
+IMG_77.jpg - detected 102 marker in DICT_5X5_250
+IMG_78.jpg - detected 168 marker in DICT_5X5_250
+IMG_79.jpg - detected 168 marker in DICT_5X5_250
+IMG_80.jpg - detected 168 marker in DICT_5X5_250
+IMG_81.jpg - detected 168 marker in DICT_5X5_250
+IMG_82.jpg - detected 168 marker in DICT_5X5_250
+IMG_83.jpg - not detected
+IMG_84.jpg - detected 168 marker in DICT_5X5_250
+IMG_85.jpg - detected 168 marker in DICT_5X5_250
+IMG_86.jpg - detected 168 marker in DICT_5X5_250
+IMG_87.jpg - detected 168 marker in DICT_5X5_250
+IMG_88.jpg - detected 168 marker in DICT_5X5_250
+IMG_89.jpg - detected 168 marker in DICT_5X5_250
+IMG_90.jpg - detected 168 marker in DICT_5X5_250
+IMG_91.jpg - detected 168 marker in DICT_5X5_250
+IMG_92.jpg - detected 168 marker in DICT_5X5_250
+IMG_93.jpg - detected 168 marker in DICT_5X5_250
+IMG_94.jpg - detected 168 marker in DICT_5X5_250
+IMG_95.jpg - detected 168 marker in DICT_5X5_250
+IMG_96.jpg - detected 168 marker in DICT_5X5_250
+IMG_97.jpg - detected 168 marker in DICT_5X5_250
+IMG_98.jpg - detected 234 marker in DICT_5X5_250
+IMG_99.jpg - detected 234 marker in DICT_5X5_250
+IMG_100.jpg - detected 234 marker in DICT_5X5_250
+IMG_101.jpg - detected 234 marker in DICT_5X5_250
+IMG_102.jpg - detected 234 marker in DICT_5X5_250
+IMG_103.jpg - detected 234 marker in DICT_5X5_250
+IMG_104.jpg - detected 234 marker in DICT_5X5_250
+IMG_105.jpg - detected 234 marker in DICT_5X5_250
+IMG_106.jpg - detected 234 marker in DICT_5X5_250
+IMG_107.jpg - detected 234 marker in DICT_5X5_250
+IMG_108.jpg - detected 234 marker in DICT_5X5_250
+IMG_109.jpg - detected 234 marker in DICT_5X5_250
+IMG_110.jpg - detected 234 marker in DICT_5X5_250
+IMG_111.jpg - detected 234 marker in DICT_5X5_250
+IMG_112.jpg - detected 234 marker in DICT_5X5_250
+IMG_113.jpg - detected 234 marker in DICT_5X5_250
+IMG_114.jpg - detected 149 marker in DICT_5X5_250
+IMG_115.jpg - detected 149 marker in DICT_5X5_250
+IMG_116.jpg - detected 149 marker in DICT_5X5_250
+IMG_117.jpg - detected 149 marker in DICT_5X5_250
+IMG_118.jpg - detected 149 marker in DICT_5X5_250
+IMG_119.jpg - detected 149 marker in DICT_5X5_250
+IMG_120.jpg - not detected
+IMG_121.jpg - detected 226 marker in DICT_4X4_250
+IMG_122.jpg - detected 149 marker in DICT_5X5_250
+IMG_123.jpg - detected 149 marker in DICT_5X5_250
+IMG_124.jpg - detected 149 marker in DICT_5X5_250
+IMG_125.jpg - detected 149 marker in DICT_5X5_250
+IMG_126.jpg - detected 149 marker in DICT_5X5_250
+IMG_127.jpg - detected 149 marker in DICT_5X5_250
+IMG_128.jpg - detected 149 marker in DICT_5X5_250
+IMG_129.jpg - detected 149 marker in DICT_5X5_250
+IMG_130.jpg - detected 149 marker in DICT_5X5_250
+IMG_131.jpg - detected 149 marker in DICT_5X5_250
+IMG_132.jpg - detected 157 marker in DICT_6X6_250
+IMG_133.jpg - detected 157 marker in DICT_6X6_250
+IMG_134.jpg - detected 157 marker in DICT_6X6_250
+IMG_135.jpg - detected 157 marker in DICT_6X6_250
+IMG_136.jpg - detected 157 marker in DICT_6X6_250
+IMG_137.jpg - detected 157 marker in DICT_6X6_250
+IMG_138.jpg - detected 157 marker in DICT_6X6_250
+IMG_139.jpg - detected 157 marker in DICT_6X6_250
+IMG_140.jpg - not detected
+IMG_141.jpg - detected 157 marker in DICT_6X6_250
+IMG_142.jpg - detected 157 marker in DICT_6X6_250
+IMG_143.jpg - detected 157 marker in DICT_6X6_250
+IMG_144.jpg - detected 157 marker in DICT_6X6_250
+IMG_145.jpg - detected 157 marker in DICT_6X6_250
+IMG_146.jpg - detected 157 marker in DICT_6X6_250
+IMG_147.jpg - detected 157 marker in DICT_6X6_250
+IMG_148.jpg - detected 157 marker in DICT_6X6_250
+IMG_149.jpg - detected 157 marker in DICT_6X6_250
+IMG_150.jpg - detected 157 marker in DICT_6X6_250
+IMG_151.jpg - detected 157 marker in DICT_6X6_250
+IMG_152.jpg - detected 157 marker in DICT_6X6_250
+IMG_153.jpg - detected 157 marker in DICT_6X6_250
+IMG_154.jpg - detected 157 marker in DICT_6X6_250
+IMG_155.jpg - detected 157 marker in DICT_6X6_250
+IMG_156.jpg - detected 157 marker in DICT_6X6_250
+IMG_157.jpg - detected 157 marker in DICT_6X6_250
+IMG_158.jpg - detected 157 marker in DICT_6X6_250
+IMG_159.jpg - detected 157 marker in DICT_6X6_250
+IMG_160.jpg - detected 157 marker in DICT_6X6_250
+IMG_161.jpg - detected 157 marker in DICT_6X6_250
+IMG_162.jpg - detected 123 marker in DICT_6X6_250
+IMG_163.jpg - detected 123 marker in DICT_6X6_250
+IMG_164.jpg - detected 123 marker in DICT_6X6_250
+IMG_165.jpg - detected 123 marker in DICT_6X6_250
+IMG_166.jpg - detected 123 marker in DICT_6X6_250
+IMG_167.jpg - detected 123 marker in DICT_6X6_250
+IMG_168.jpg - detected 123 marker in DICT_6X6_250
+IMG_169.jpg - not detected
+IMG_170.jpg - not detected
+IMG_171.jpg - detected 123 marker in DICT_6X6_250
+IMG_172.jpg - detected 123 marker in DICT_6X6_250
+IMG_173.jpg - detected 123 marker in DICT_6X6_250
+IMG_174.jpg - detected 123 marker in DICT_6X6_250
+IMG_175.jpg - detected 123 marker in DICT_6X6_250
+IMG_176.jpg - detected 123 marker in DICT_6X6_250
+IMG_177.jpg - detected 123 marker in DICT_6X6_250
+IMG_178.jpg - detected 123 marker in DICT_6X6_250
+IMG_179.jpg - detected 123 marker in DICT_6X6_250
+IMG_180.jpg - detected 123 marker in DICT_6X6_250
+IMG_181.jpg - detected 123 marker in DICT_6X6_250
+IMG_182.jpg - detected 123 marker in DICT_6X6_250
+IMG_183.jpg - detected 123 marker in DICT_6X6_250
+IMG_184.jpg - detected 123 marker in DICT_6X6_250
+IMG_185.jpg - detected 123 marker in DICT_6X6_250
+IMG_186.jpg - detected 10 marker in DICT_7X7_250
+IMG_187.jpg - detected 10 marker in DICT_7X7_250
+IMG_188.jpg - detected 10 marker in DICT_7X7_250
+IMG_189.jpg - detected 10 marker in DICT_7X7_250
+IMG_190.jpg - not detected
+IMG_191.jpg - detected 10 marker in DICT_7X7_250
+IMG_192.jpg - detected 10 marker in DICT_7X7_250
+IMG_193.jpg - not detected
+IMG_194.jpg - detected 10 marker in DICT_7X7_250
+IMG_195.jpg - detected 10 marker in DICT_7X7_250
+IMG_196.jpg - detected 10 marker in DICT_7X7_250
+IMG_197.jpg - detected 10 marker in DICT_7X7_250
+IMG_198.jpg - detected 10 marker in DICT_7X7_250
+IMG_199.jpg - detected 10 marker in DICT_7X7_250
+IMG_200.jpg - detected 10 marker in DICT_7X7_250
+IMG_201.jpg - detected 10 marker in DICT_7X7_250
+IMG_202.jpg - detected 10 marker in DICT_7X7_250
+IMG_203.jpg - detected 10 marker in DICT_7X7_250
+IMG_204.jpg - detected 10 marker in DICT_7X7_250
+IMG_205.jpg - detected 10 marker in DICT_7X7_250
+IMG_206.jpg - detected 190 marker in DICT_7X7_250
+IMG_207.jpg - detected 190 marker in DICT_7X7_250
+IMG_208.jpg - detected 190 marker in DICT_7X7_250
+IMG_209.jpg - detected 190 marker in DICT_7X7_250
+IMG_210.jpg - detected 190 marker in DICT_7X7_250
+IMG_211.jpg - detected 190 marker in DICT_7X7_250
+IMG_212.jpg - detected 190 marker in DICT_7X7_250
+IMG_213.jpg - detected 190 marker in DICT_7X7_250
+IMG_214.jpg - detected 190 marker in DICT_7X7_250
+IMG_215.jpg - detected 190 marker in DICT_7X7_250
+IMG_216.jpg - detected 190 marker in DICT_7X7_250
+IMG_217.jpg - not detected
+IMG_218.jpg - detected 190 marker in DICT_7X7_250
+IMG_219.jpg - detected 190 marker in DICT_7X7_250
+IMG_220.jpg - detected 190 marker in DICT_7X7_250
+IMG_221.jpg - detected 190 marker in DICT_7X7_250
+IMG_222.jpg - detected 190 marker in DICT_7X7_250
+IMG_223.jpg - detected 190 marker in DICT_7X7_250
+IMG_224.jpg - detected 190 marker in DICT_7X7_250
+IMG_225.jpg - detected 190 marker in DICT_7X7_250
+IMG_226.jpg - detected 154 marker in DICT_7X7_250
+IMG_227.jpg - detected 154 marker in DICT_7X7_250
+IMG_228.jpg - detected 154 marker in DICT_7X7_250
+IMG_229.jpg - detected 154 marker in DICT_7X7_250
+IMG_230.jpg - detected 154 marker in DICT_7X7_250
+IMG_231.jpg - detected 154 marker in DICT_7X7_250
+IMG_232.jpg - detected 154 marker in DICT_7X7_250
+IMG_233.jpg - detected 154 marker in DICT_7X7_250
+IMG_234.jpg - not detected
+IMG_235.jpg - detected 154 marker in DICT_7X7_250
+IMG_236.jpg - detected 154 marker in DICT_7X7_250
+IMG_237.jpg - detected 154 marker in DICT_7X7_250
+IMG_238.jpg - detected 154 marker in DICT_7X7_250
+IMG_239.jpg - detected 154 marker in DICT_7X7_250
+IMG_240.jpg - detected 154 marker in DICT_7X7_250
+IMG_241.jpg - detected 154 marker in DICT_7X7_250
+IMG_242.jpg - detected 154 marker in DICT_7X7_250
+IMG_243.jpg - detected 65 marker in DICT_7X7_250
+IMG_244.jpg - detected 65 marker in DICT_7X7_250
+IMG_245.jpg - detected 65 marker in DICT_7X7_250
+IMG_246.jpg - detected 65 marker in DICT_7X7_250
+IMG_247.jpg - detected 65 marker in DICT_7X7_250
+IMG_248.jpg - detected 65 marker in DICT_7X7_250
+IMG_249.jpg - detected 65 marker in DICT_7X7_250
+IMG_250.jpg - detected 65 marker in DICT_7X7_250
+IMG_251.jpg - detected 65 marker in DICT_7X7_250
+IMG_252.jpg - detected 65 marker in DICT_7X7_250
+IMG_253.jpg - detected 65 marker in DICT_7X7_250
+IMG_254.jpg - detected 65 marker in DICT_7X7_250
+IMG_255.jpg - detected 65 marker in DICT_7X7_250
+IMG_256.jpg - detected 65 marker in DICT_7X7_250
+IMG_257.jpg - detected 65 marker in DICT_7X7_250
+IMG_258.jpg - detected 65 marker in DICT_7X7_250
+IMG_259.jpg - detected 65 marker in DICT_7X7_250
+IMG_260.jpg - detected 65 marker in DICT_7X7_250
+IMG_261.jpg - detected 65 marker in DICT_7X7_250
+IMG_262.jpg - detected 65 marker in DICT_7X7_250
+IMG_263.jpg - detected 65 marker in DICT_7X7_250
+IMG_264.jpg - detected 65 marker in DICT_7X7_250
+IMG_265.jpg - detected 65 marker in DICT_7X7_250
+IMG_266.jpg - detected 65 marker in DICT_7X7_250
+IMG_267.jpg - detected 65 marker in DICT_7X7_250
+IMG_268.jpg - detected 65 marker in DICT_7X7_250
+IMG_269.jpg - detected 232 marker in DICT_6X6_250
+IMG_270.jpg - detected 232 marker in DICT_6X6_250
+IMG_271.jpg - detected 232 marker in DICT_6X6_250
+IMG_272.jpg - detected 232 marker in DICT_6X6_250
+IMG_273.jpg - detected 232 marker in DICT_6X6_250
+IMG_274.jpg - detected 232 marker in DICT_6X6_250
+IMG_275.jpg - detected 232 marker in DICT_6X6_250
+IMG_276.jpg - not detected
+IMG_277.jpg - detected 232 marker in DICT_6X6_250
+IMG_278.jpg - detected 232 marker in DICT_6X6_250
+IMG_279.jpg - detected 232 marker in DICT_6X6_250
+IMG_280.jpg - not detected
+IMG_281.jpg - detected 232 marker in DICT_6X6_250
+IMG_282.jpg - detected 232 marker in DICT_6X6_250
+IMG_283.jpg - detected 232 marker in DICT_6X6_250
+IMG_284.jpg - detected 232 marker in DICT_6X6_250
+IMG_285.jpg - detected 232 marker in DICT_6X6_250
+IMG_286.jpg - not detected
+IMG_287.jpg - detected 232 marker in DICT_6X6_250
+IMG_288.jpg - detected 232 marker in DICT_6X6_250
+IMG_289.jpg - detected 232 marker in DICT_6X6_250
+IMG_290.jpg - detected 232 marker in DICT_6X6_250
+IMG_291.jpg - detected 232 marker in DICT_6X6_250
+IMG_292.jpg - detected 232 marker in DICT_6X6_250
+IMG_293.jpg - detected 232 marker in DICT_6X6_250
+IMG_294.jpg - detected 232 marker in DICT_6X6_250
+IMG_295.jpg - detected 232 marker in DICT_6X6_250
+IMG_296.jpg - detected 97 marker in DICT_6X6_250
+IMG_297.jpg - detected 97 marker in DICT_6X6_250
+IMG_298.jpg - detected 97 marker in DICT_6X6_250
+IMG_299.jpg - detected 97 marker in DICT_6X6_250
+IMG_300.jpg - detected 97 marker in DICT_6X6_250
+IMG_301.jpg - detected 97 marker in DICT_6X6_250
+IMG_302.jpg - not detected
+IMG_303.jpg - not detected
+IMG_304.jpg - detected 97 marker in DICT_6X6_250
+IMG_305.jpg - detected 22 marker in DICT_4X4_250
+IMG_306.jpg - detected 97 marker in DICT_6X6_250
+IMG_307.jpg - detected 97 marker in DICT_6X6_250
+IMG_308.jpg - detected 97 marker in DICT_6X6_250
+IMG_309.jpg - detected 97 marker in DICT_6X6_250
+IMG_310.jpg - detected 97 marker in DICT_6X6_250
+IMG_311.jpg - detected 97 marker in DICT_6X6_250
+IMG_312.jpg - detected 97 marker in DICT_6X6_250
+IMG_313.jpg - detected 97 marker in DICT_6X6_250
+IMG_314.jpg - detected 97 marker in DICT_6X6_250
+IMG_315.jpg - detected 97 marker in DICT_6X6_250
+IMG_316.jpg - detected 97 marker in DICT_6X6_250
+IMG_317.jpg - detected 97 marker in DICT_6X6_250
+IMG_318.jpg - detected 97 marker in DICT_6X6_250
+IMG_319.jpg - detected 97 marker in DICT_6X6_250
+IMG_320.jpg - detected 134 marker in DICT_4X4_250
+IMG_321.jpg - detected 134 marker in DICT_4X4_250
+IMG_322.jpg - detected 134 marker in DICT_4X4_250
+IMG_323.jpg - detected 134 marker in DICT_4X4_250
+IMG_324.jpg - not detected
+IMG_325.jpg - not detected
+IMG_326.jpg - detected 134 marker in DICT_4X4_250
+IMG_327.jpg - detected 134 marker in DICT_4X4_250
+IMG_328.jpg - detected 134 marker in DICT_4X4_250
+IMG_329.jpg - not detected
+IMG_330.jpg - detected 134 marker in DICT_4X4_250
+IMG_331.jpg - detected 134 marker in DICT_4X4_250
+IMG_332.jpg - detected 134 marker in DICT_4X4_250
+IMG_333.jpg - detected 134 marker in DICT_4X4_250
+IMG_334.jpg - detected 134 marker in DICT_4X4_250
+IMG_335.jpg - detected 134 marker in DICT_4X4_250
+IMG_336.jpg - detected 134 marker in DICT_4X4_250
+IMG_337.jpg - detected 134 marker in DICT_4X4_250
+IMG_338.jpg - detected 134 marker in DICT_4X4_250
+IMG_339.jpg - detected 134 marker in DICT_4X4_250
+IMG_340.jpg - detected 134 marker in DICT_4X4_250
+IMG_341.jpg - detected 134 marker in DICT_4X4_250
+IMG_342.jpg - detected 134 marker in DICT_4X4_250
+IMG_343.jpg - detected 134 marker in DICT_4X4_250
+IMG_344.jpg - detected 134 marker in DICT_4X4_250
+IMG_345.jpg - not detected
+IMG_346.jpg - not detected
+IMG_347.jpg - not detected
+IMG_348.jpg - detected 134 marker in DICT_4X4_250
+IMG_349.jpg - not detected
+IMG_350.jpg - not detected
+IMG_351.jpg - not detected
+IMG_352.jpg - detected 134 marker in DICT_4X4_250
+IMG_353.jpg - not detected
+IMG_354.jpg - not detected
+IMG_355.jpg - detected 134 marker in DICT_4X4_250
+IMG_356.jpg - not detected
+IMG_357.jpg - not detected
+IMG_358.jpg - not detected
+IMG_359.jpg - not detected
+IMG_360.jpg - detected 97 marker in DICT_6X6_250
+IMG_361.jpg - detected 97 marker in DICT_6X6_250
+IMG_362.jpg - detected 97 marker in DICT_6X6_250
+IMG_363.jpg - not detected
+IMG_364.jpg - not detected
+IMG_365.jpg - not detected
+IMG_366.jpg - not detected
+IMG_367.jpg - not detected
+IMG_368.jpg - not detected
+IMG_369.jpg - not detected
+IMG_370.jpg - not detected
+IMG_371.jpg - not detected
+IMG_372.jpg - detected 97 marker in DICT_6X6_250
+IMG_373.jpg - not detected
+IMG_374.jpg - detected 232 marker in DICT_6X6_250
+IMG_375.jpg - detected 232 marker in DICT_6X6_250
+IMG_376.jpg - detected 232 marker in DICT_6X6_250
+IMG_377.jpg - not detected
+IMG_378.jpg - detected 232 marker in DICT_6X6_250
+IMG_379.jpg - detected 232 marker in DICT_6X6_250
+IMG_380.jpg - detected 232 marker in DICT_6X6_250
+IMG_381.jpg - detected 232 marker in DICT_6X6_250
+IMG_382.jpg - detected 232 marker in DICT_6X6_250
+IMG_383.jpg - detected 232 marker in DICT_6X6_250
+IMG_384.jpg - detected 232 marker in DICT_6X6_250
+IMG_385.jpg - detected 232 marker in DICT_6X6_250
+IMG_386.jpg - detected 65 marker in DICT_7X7_250
+IMG_387.jpg - not detected
+IMG_388.jpg - not detected
+IMG_389.jpg - detected 65 marker in DICT_7X7_250
+IMG_390.jpg - detected 65 marker in DICT_7X7_250
+IMG_391.jpg - detected 65 marker in DICT_7X7_250
+IMG_392.jpg - not detected
+IMG_393.jpg - not detected
+IMG_394.jpg - not detected
+IMG_395.jpg - not detected
+IMG_396.jpg - not detected
+IMG_397.jpg - detected 65 marker in DICT_7X7_250
+IMG_398.jpg - not detected
+IMG_399.jpg - not detected
+IMG_400.jpg - detected 154 marker in DICT_7X7_250
+IMG_401.jpg - detected 154 marker in DICT_7X7_250
+IMG_402.jpg - detected 154 marker in DICT_7X7_250
+IMG_403.jpg - detected 154 marker in DICT_7X7_250
+IMG_404.jpg - detected 154 marker in DICT_7X7_250
+IMG_405.jpg - detected 154 marker in DICT_7X7_250
+IMG_406.jpg - not detected
+IMG_407.jpg - not detected
+IMG_408.jpg - detected 154 marker in DICT_7X7_250
+IMG_409.jpg - not detected
+IMG_410.jpg - not detected
+IMG_411.jpg - detected 190 marker in DICT_7X7_250
+IMG_412.jpg - detected 190 marker in DICT_7X7_250
+IMG_413.jpg - not detected
+IMG_414.jpg - detected 190 marker in DICT_7X7_250
+IMG_415.jpg - not detected
+IMG_416.jpg - detected 190 marker in DICT_7X7_250
+IMG_417.jpg - not detected
+IMG_418.jpg - not detected
+IMG_419.jpg - not detected
+IMG_420.jpg - not detected
+IMG_421.jpg - not detected
+IMG_422.jpg - not detected
+IMG_423.jpg - detected 10 marker in DICT_7X7_250
+IMG_424.jpg - not detected
+IMG_425.jpg - not detected
+IMG_426.jpg - not detected
+IMG_427.jpg - not detected
+IMG_428.jpg - not detected
+IMG_429.jpg - not detected
+IMG_430.jpg - not detected
+IMG_431.jpg - detected 10 marker in DICT_7X7_250
+IMG_432.jpg - detected 10 marker in DICT_7X7_250
+IMG_433.jpg - not detected
+IMG_434.jpg - not detected
+IMG_435.jpg - not detected
+IMG_436.jpg - not detected
+IMG_437.jpg - not detected
+IMG_438.jpg - not detected
+IMG_439.jpg - not detected
+IMG_440.jpg - detected 123 marker in DICT_6X6_250
+IMG_441.jpg - not detected
+IMG_442.jpg - not detected
+IMG_443.jpg - not detected
+IMG_444.jpg - not detected
+IMG_445.jpg - not detected
+IMG_446.jpg - not detected
+IMG_447.jpg - not detected
+IMG_448.jpg - not detected
+IMG_449.jpg - detected 157 marker in DICT_6X6_250
+IMG_450.jpg - detected 157 marker in DICT_6X6_250
+IMG_451.jpg - not detected
+IMG_452.jpg - not detected
+IMG_453.jpg - not detected
+IMG_454.jpg - detected 157 marker in DICT_6X6_250
+IMG_455.jpg - not detected
+IMG_456.jpg - not detected
+IMG_457.jpg - not detected
+IMG_458.jpg - detected 149 marker in DICT_5X5_250
+IMG_459.jpg - not detected
+IMG_460.jpg - not detected
+IMG_461.jpg - detected 149 marker in DICT_5X5_250
+IMG_462.jpg - detected 149 marker in DICT_5X5_250
+IMG_463.jpg - detected 149 marker in DICT_5X5_250
+IMG_464.jpg - detected 149 marker in DICT_5X5_250
+IMG_465.jpg - not detected
+IMG_466.jpg - detected 149 marker in DICT_5X5_250
+IMG_467.jpg - detected 149 marker in DICT_5X5_250
+IMG_468.jpg - not detected
+IMG_469.jpg - detected 149 marker in DICT_5X5_250
+IMG_470.jpg - not detected
+IMG_471.jpg - detected 234 marker in DICT_5X5_250
+IMG_472.jpg - detected 234 marker in DICT_5X5_250
+IMG_473.jpg - detected 234 marker in DICT_5X5_250
+IMG_474.jpg - detected 234 marker in DICT_5X5_250
+IMG_475.jpg - not detected
+IMG_476.jpg - detected 234 marker in DICT_5X5_250
+IMG_477.jpg - not detected
+IMG_478.jpg - not detected
+IMG_479.jpg - not detected
+IMG_480.jpg - detected 234 marker in DICT_5X5_250
+IMG_481.jpg - not detected
+IMG_482.jpg - not detected
+IMG_483.jpg - not detected
+IMG_484.jpg - not detected
+IMG_485.jpg - not detected
+IMG_486.jpg - not detected
+IMG_487.jpg - not detected
+IMG_488.jpg - not detected
+IMG_489.jpg - not detected
+IMG_490.jpg - not detected
+IMG_491.jpg - not detected
+IMG_492.jpg - not detected
+IMG_493.jpg - not detected
+IMG_494.jpg - detected 168 marker in DICT_5X5_250
+IMG_495.jpg - not detected
+IMG_496.jpg - detected 102 marker in DICT_5X5_250
+IMG_497.jpg - detected 102 marker in DICT_5X5_250
+IMG_498.jpg - detected 102 marker in DICT_5X5_250
+IMG_499.jpg - detected 102 marker in DICT_5X5_250
+IMG_500.jpg - detected 102 marker in DICT_5X5_250
+IMG_501.jpg - not detected
+IMG_502.jpg - not detected
+IMG_503.jpg - not detected
+IMG_504.jpg - not detected
+IMG_505.jpg - not detected
+IMG_506.jpg - not detected
+IMG_507.jpg - detected 166 marker in DICT_4X4_250
+IMG_508.jpg - not detected
+IMG_509.jpg - detected 166 marker in DICT_4X4_250
+IMG_510.jpg - not detected
+IMG_511.jpg - not detected
+IMG_512.jpg - detected 166 marker in DICT_4X4_250
+IMG_513.jpg - detected 166 marker in DICT_4X4_250
+IMG_514.jpg - detected 166 marker in DICT_4X4_250
+IMG_515.jpg - not detected
+IMG_516.jpg - detected 166 marker in DICT_4X4_250
+IMG_517.jpg - detected 166 marker in DICT_4X4_250
+IMG_518.jpg - not detected
+IMG_519.jpg - not detected
+IMG_520.jpg - detected 12 marker in DICT_4X4_250
+IMG_521.jpg - detected 12 marker in DICT_4X4_250
+IMG_522.jpg - detected 12 marker in DICT_4X4_250
+IMG_523.jpg - detected 12 marker in DICT_4X4_250
+IMG_524.jpg - detected 12 marker in DICT_4X4_250
+IMG_525.jpg - detected 12 marker in DICT_4X4_250
+IMG_526.jpg - not detected
+IMG_527.jpg - detected 12 marker in DICT_4X4_250
+IMG_528.jpg - not detected
+IMG_529.jpg - detected 12 marker in DICT_4X4_250
+IMG_530.jpg - not detected
+IMG_531.jpg - not detected
+IMG_532.jpg - not detected
+IMG_533.jpg - not detected
+IMG_534.jpg - not detected
+IMG_535.jpg - not detected
+IMG_536.jpg - not detected
+IMG_537.jpg - not detected
+IMG_538.jpg - not detected
+IMG_539.jpg - not detected
+IMG_540.jpg - not detected
+IMG_541.jpg - not detected
+IMG_542.jpg - detected 43 marker in DICT_4X4_250
+IMG_543.jpg - detected 43 marker in DICT_4X4_250
+IMG_544.jpg - detected 43 marker in DICT_4X4_250
+IMG_545.jpg - detected 43 marker in DICT_4X4_250
+IMG_546.jpg - detected 43 marker in DICT_4X4_250
+IMG_547.jpg - detected 43 marker in DICT_4X4_250
+IMG_548.jpg - detected 43 marker in DICT_4X4_250
+IMG_549.jpg - detected 43 marker in DICT_4X4_250
+IMG_550.jpg - detected 43 marker in DICT_4X4_250
+IMG_551.jpg - detected 43 marker in DICT_4X4_250
+IMG_552.jpg - detected 43 marker in DICT_4X4_250
+IMG_553.jpg - detected 43 marker in DICT_4X4_250
+IMG_554.jpg - detected 43 marker in DICT_4X4_250
+IMG_555.jpg - detected 43 marker in DICT_4X4_250
+IMG_556.jpg - detected 43 marker in DICT_4X4_250
+IMG_557.jpg - detected 43 marker in DICT_4X4_250
+IMG_558.jpg - detected 43 marker in DICT_4X4_250
+IMG_559.jpg - not detected
+IMG_560.jpg - not detected
+IMG_561.jpg - not detected
+IMG_562.jpg - not detected
+IMG_563.jpg - detected 12 marker in DICT_4X4_250
+IMG_564.jpg - detected 12 marker in DICT_4X4_250
+IMG_565.jpg - detected 12 marker in DICT_4X4_250
+IMG_566.jpg - detected 12 marker in DICT_4X4_250
+IMG_567.jpg - detected 12 marker in DICT_4X4_250
+IMG_568.jpg - detected 12 marker in DICT_4X4_250
+IMG_569.jpg - detected 12 marker in DICT_4X4_250
+IMG_570.jpg - detected 12 marker in DICT_4X4_250
+IMG_571.jpg - detected 12 marker in DICT_4X4_250
+IMG_572.jpg - detected 12 marker in DICT_4X4_250
+IMG_573.jpg - detected 12 marker in DICT_4X4_250
+IMG_574.jpg - detected 12 marker in DICT_4X4_250
+IMG_575.jpg - detected 12 marker in DICT_4X4_250
+IMG_576.jpg - detected 12 marker in DICT_4X4_250
+IMG_577.jpg - detected 12 marker in DICT_4X4_250
+IMG_578.jpg - detected 12 marker in DICT_4X4_250
+IMG_579.jpg - detected 12 marker in DICT_4X4_250
+IMG_580.jpg - detected 12 marker in DICT_4X4_250
+IMG_581.jpg - detected 12 marker in DICT_4X4_250
+IMG_582.jpg - not detected
+IMG_583.jpg - not detected
+IMG_584.jpg - not detected
+IMG_585.jpg - detected 166 marker in DICT_4X4_250
+IMG_586.jpg - detected 166 marker in DICT_4X4_250
+IMG_587.jpg - detected 166 marker in DICT_4X4_250
+IMG_588.jpg - detected 166 marker in DICT_4X4_250
+IMG_589.jpg - detected 166 marker in DICT_4X4_250
+IMG_590.jpg - detected 166 marker in DICT_4X4_250
+IMG_591.jpg - detected 166 marker in DICT_4X4_250
+IMG_592.jpg - detected 166 marker in DICT_4X4_250
+IMG_593.jpg - detected 166 marker in DICT_4X4_250
+IMG_594.jpg - detected 166 marker in DICT_4X4_250
+IMG_595.jpg - detected 166 marker in DICT_4X4_250
+IMG_596.jpg - detected 166 marker in DICT_4X4_250
+IMG_597.jpg - detected 166 marker in DICT_4X4_250
+IMG_598.jpg - detected 166 marker in DICT_4X4_250
+IMG_599.jpg - detected 166 marker in DICT_4X4_250
+IMG_600.jpg - detected 166 marker in DICT_4X4_250
+IMG_601.jpg - detected 166 marker in DICT_4X4_250
+IMG_602.jpg - detected 166 marker in DICT_4X4_250
+IMG_603.jpg - detected 166 marker in DICT_4X4_250
+IMG_604.jpg - detected 166 marker in DICT_4X4_250
+IMG_605.jpg - detected 166 marker in DICT_4X4_250
+IMG_606.jpg - detected 166 marker in DICT_4X4_250
+IMG_607.jpg - detected 166 marker in DICT_4X4_250
+IMG_608.jpg - not detected
+IMG_609.jpg - not detected
+IMG_610.jpg - detected 102 marker in DICT_5X5_250
+IMG_611.jpg - detected 102 marker in DICT_5X5_250
+IMG_612.jpg - detected 102 marker in DICT_5X5_250
+IMG_613.jpg - detected 102 marker in DICT_5X5_250
+IMG_614.jpg - detected 102 marker in DICT_5X5_250
+IMG_615.jpg - detected 102 marker in DICT_5X5_250
+IMG_616.jpg - detected 102 marker in DICT_5X5_250
+IMG_617.jpg - detected 102 marker in DICT_5X5_250
+IMG_618.jpg - detected 102 marker in DICT_5X5_250
+IMG_619.jpg - detected 102 marker in DICT_5X5_250
+IMG_620.jpg - detected 102 marker in DICT_5X5_250
+IMG_621.jpg - detected 102 marker in DICT_5X5_250
+IMG_622.jpg - detected 102 marker in DICT_5X5_250
+IMG_623.jpg - detected 102 marker in DICT_5X5_250
+IMG_624.jpg - detected 102 marker in DICT_5X5_250
+IMG_625.jpg - detected 102 marker in DICT_5X5_250
+IMG_626.jpg - detected 168 marker in DICT_5X5_250
+IMG_627.jpg - detected 168 marker in DICT_5X5_250
+IMG_628.jpg - detected 168 marker in DICT_5X5_250
+IMG_629.jpg - detected 168 marker in DICT_5X5_250
+IMG_630.jpg - detected 168 marker in DICT_5X5_250
+IMG_631.jpg - detected 168 marker in DICT_5X5_250
+IMG_632.jpg - detected 168 marker in DICT_5X5_250
+IMG_633.jpg - detected 168 marker in DICT_5X5_250
+IMG_634.jpg - detected 168 marker in DICT_5X5_250
+IMG_635.jpg - detected 168 marker in DICT_5X5_250
+IMG_636.jpg - detected 168 marker in DICT_5X5_250
+IMG_637.jpg - detected 168 marker in DICT_5X5_250
+IMG_638.jpg - detected 168 marker in DICT_5X5_250
+IMG_639.jpg - detected 168 marker in DICT_5X5_250
+IMG_640.jpg - detected 168 marker in DICT_5X5_250
+IMG_641.jpg - detected 168 marker in DICT_5X5_250
+IMG_642.jpg - detected 168 marker in DICT_5X5_250
+IMG_643.jpg - detected 168 marker in DICT_5X5_250
+IMG_644.jpg - detected 168 marker in DICT_5X5_250
+IMG_645.jpg - detected 168 marker in DICT_5X5_250
+IMG_646.jpg - detected 168 marker in DICT_5X5_250
+IMG_647.jpg - detected 234 marker in DICT_5X5_250
+IMG_648.jpg - detected 234 marker in DICT_5X5_250
+IMG_649.jpg - detected 234 marker in DICT_5X5_250
+IMG_650.jpg - detected 234 marker in DICT_5X5_250
+IMG_651.jpg - detected 234 marker in DICT_5X5_250
+IMG_652.jpg - detected 234 marker in DICT_5X5_250
+IMG_653.jpg - detected 234 marker in DICT_5X5_250
+IMG_654.jpg - detected 234 marker in DICT_5X5_250
+IMG_655.jpg - detected 234 marker in DICT_5X5_250
+IMG_656.jpg - detected 234 marker in DICT_5X5_250
+IMG_657.jpg - detected 234 marker in DICT_5X5_250
+IMG_658.jpg - detected 234 marker in DICT_5X5_250
+IMG_659.jpg - detected 234 marker in DICT_5X5_250
+IMG_660.jpg - detected 234 marker in DICT_5X5_250
+IMG_661.jpg - detected 234 marker in DICT_5X5_250
+IMG_662.jpg - detected 234 marker in DICT_5X5_250
+IMG_663.jpg - detected 234 marker in DICT_5X5_250
+IMG_664.jpg - detected 234 marker in DICT_5X5_250
+IMG_665.jpg - detected 149 marker in DICT_5X5_250
+IMG_666.jpg - detected 149 marker in DICT_5X5_250
+IMG_667.jpg - detected 149 marker in DICT_5X5_250
+IMG_668.jpg - detected 149 marker in DICT_5X5_250
+IMG_669.jpg - detected 149 marker in DICT_5X5_250
+IMG_670.jpg - detected 149 marker in DICT_5X5_250
+IMG_671.jpg - detected 149 marker in DICT_5X5_250
+IMG_672.jpg - detected 149 marker in DICT_5X5_250
+IMG_673.jpg - detected 149 marker in DICT_5X5_250
+IMG_674.jpg - not detected
+IMG_675.jpg - detected 149 marker in DICT_5X5_250
+IMG_676.jpg - detected 149 marker in DICT_5X5_250
+IMG_677.jpg - detected 149 marker in DICT_5X5_250
+IMG_678.jpg - detected 149 marker in DICT_5X5_250
+IMG_679.jpg - detected 149 marker in DICT_5X5_250
+IMG_680.jpg - detected 149 marker in DICT_5X5_250
+IMG_681.jpg - detected 149 marker in DICT_5X5_250
+IMG_682.jpg - detected 149 marker in DICT_5X5_250
+IMG_683.jpg - detected 149 marker in DICT_5X5_250
+IMG_684.jpg - not detected
+IMG_685.jpg - detected 157 marker in DICT_6X6_250
+IMG_686.jpg - detected 157 marker in DICT_6X6_250
+IMG_687.jpg - detected 157 marker in DICT_6X6_250
+IMG_688.jpg - detected 157 marker in DICT_6X6_250
+IMG_689.jpg - detected 157 marker in DICT_6X6_250
+IMG_690.jpg - detected 157 marker in DICT_6X6_250
+IMG_691.jpg - detected 157 marker in DICT_6X6_250
+IMG_692.jpg - not detected
+IMG_693.jpg - not detected
+IMG_694.jpg - detected 157 marker in DICT_6X6_250
+IMG_695.jpg - detected 157 marker in DICT_6X6_250
+IMG_696.jpg - detected 157 marker in DICT_6X6_250
+IMG_697.jpg - detected 157 marker in DICT_6X6_250
+IMG_698.jpg - detected 157 marker in DICT_6X6_250
+IMG_699.jpg - detected 157 marker in DICT_6X6_250
+IMG_700.jpg - detected 157 marker in DICT_6X6_250
+IMG_701.jpg - detected 157 marker in DICT_6X6_250
+IMG_702.jpg - detected 157 marker in DICT_6X6_250
+IMG_703.jpg - detected 123 marker in DICT_6X6_250
+IMG_704.jpg - detected 123 marker in DICT_6X6_250
+IMG_705.jpg - detected 123 marker in DICT_6X6_250
+IMG_706.jpg - detected 123 marker in DICT_6X6_250
+IMG_707.jpg - detected 123 marker in DICT_6X6_250
+IMG_708.jpg - detected 123 marker in DICT_6X6_250
+IMG_709.jpg - detected 123 marker in DICT_6X6_250
+IMG_710.jpg - detected 123 marker in DICT_6X6_250
+IMG_711.jpg - detected 123 marker in DICT_6X6_250
+IMG_712.jpg - detected 123 marker in DICT_6X6_250
+IMG_713.jpg - detected 123 marker in DICT_6X6_250
+IMG_714.jpg - detected 123 marker in DICT_6X6_250
+IMG_715.jpg - detected 123 marker in DICT_6X6_250
+IMG_716.jpg - detected 123 marker in DICT_6X6_250
+IMG_717.jpg - detected 123 marker in DICT_6X6_250
+IMG_718.jpg - detected 123 marker in DICT_6X6_250
+IMG_719.jpg - detected 123 marker in DICT_6X6_250
+IMG_720.jpg - detected 10 marker in DICT_7X7_250
+IMG_721.jpg - detected 10 marker in DICT_7X7_250
+IMG_722.jpg - detected 10 marker in DICT_7X7_250
+IMG_723.jpg - detected 10 marker in DICT_7X7_250
+IMG_724.jpg - detected 10 marker in DICT_7X7_250
+IMG_725.jpg - detected 10 marker in DICT_7X7_250
+IMG_726.jpg - detected 10 marker in DICT_7X7_250
+IMG_727.jpg - detected 10 marker in DICT_7X7_250
+IMG_728.jpg - detected 10 marker in DICT_7X7_250
+IMG_729.jpg - not detected
+IMG_730.jpg - detected 10 marker in DICT_7X7_250
+IMG_731.jpg - detected 10 marker in DICT_7X7_250
+IMG_732.jpg - detected 10 marker in DICT_7X7_250
+IMG_733.jpg - detected 10 marker in DICT_7X7_250
+IMG_734.jpg - detected 10 marker in DICT_7X7_250
+IMG_735.jpg - detected 10 marker in DICT_7X7_250
+IMG_736.jpg - not detected
+IMG_737.jpg - detected 10 marker in DICT_7X7_250
+IMG_738.jpg - detected 120 marker in DICT_4X4_250
+IMG_739.jpg - detected 10 marker in DICT_7X7_250
+IMG_740.jpg - not detected
+IMG_741.jpg - not detected
+IMG_742.jpg - detected 190 marker in DICT_7X7_250
+IMG_743.jpg - detected 190 marker in DICT_7X7_250
+IMG_744.jpg - detected 190 marker in DICT_7X7_250
+IMG_745.jpg - detected 190 marker in DICT_7X7_250
+IMG_746.jpg - detected 190 marker in DICT_7X7_250
+IMG_747.jpg - detected 190 marker in DICT_7X7_250
+IMG_748.jpg - detected 190 marker in DICT_7X7_250
+IMG_749.jpg - detected 190 marker in DICT_7X7_250
+IMG_750.jpg - detected 190 marker in DICT_7X7_250
+IMG_751.jpg - not detected
+IMG_752.jpg - detected 190 marker in DICT_7X7_250
+IMG_753.jpg - detected 190 marker in DICT_7X7_250
+IMG_754.jpg - detected 190 marker in DICT_7X7_250
+IMG_755.jpg - detected 190 marker in DICT_7X7_250
+IMG_756.jpg - detected 190 marker in DICT_7X7_250
+IMG_757.jpg - detected 190 marker in DICT_7X7_250
+IMG_758.jpg - detected 190 marker in DICT_7X7_250
+IMG_759.jpg - detected 190 marker in DICT_7X7_250
+IMG_760.jpg - detected 154 marker in DICT_7X7_250
+IMG_761.jpg - detected 154 marker in DICT_7X7_250
+IMG_762.jpg - detected 154 marker in DICT_7X7_250
+IMG_763.jpg - detected 154 marker in DICT_7X7_250
+IMG_764.jpg - detected 154 marker in DICT_7X7_250
+IMG_765.jpg - detected 154 marker in DICT_7X7_250
+IMG_766.jpg - detected 154 marker in DICT_7X7_250
+IMG_767.jpg - detected 154 marker in DICT_7X7_250
+IMG_768.jpg - detected 154 marker in DICT_7X7_250
+IMG_769.jpg - detected 154 marker in DICT_7X7_250
+IMG_770.jpg - detected 154 marker in DICT_7X7_250
+IMG_771.jpg - detected 154 marker in DICT_7X7_250
+IMG_772.jpg - detected 154 marker in DICT_7X7_250
+IMG_773.jpg - detected 154 marker in DICT_7X7_250
+IMG_774.jpg - detected 154 marker in DICT_7X7_250
+IMG_775.jpg - detected 154 marker in DICT_7X7_250
+IMG_776.jpg - detected 154 marker in DICT_7X7_250
+IMG_777.jpg - detected 154 marker in DICT_7X7_250
+IMG_778.jpg - detected 154 marker in DICT_7X7_250
+IMG_779.jpg - detected 154 marker in DICT_7X7_250
+IMG_780.jpg - detected 65 marker in DICT_7X7_250
+IMG_781.jpg - detected 65 marker in DICT_7X7_250
+IMG_782.jpg - detected 65 marker in DICT_7X7_250
+IMG_783.jpg - detected 65 marker in DICT_7X7_250
+IMG_784.jpg - detected 65 marker in DICT_7X7_250
+IMG_785.jpg - detected 65 marker in DICT_7X7_250
+IMG_786.jpg - detected 65 marker in DICT_7X7_250
+IMG_787.jpg - detected 65 marker in DICT_7X7_250
+IMG_788.jpg - detected 65 marker in DICT_7X7_250
+IMG_789.jpg - not detected
+IMG_790.jpg - detected 65 marker in DICT_7X7_250
+IMG_791.jpg - detected 65 marker in DICT_7X7_250
+IMG_792.jpg - detected 65 marker in DICT_7X7_250
+IMG_793.jpg - detected 65 marker in DICT_7X7_250
+IMG_794.jpg - detected 65 marker in DICT_7X7_250
+IMG_795.jpg - detected 65 marker in DICT_7X7_250
+IMG_796.jpg - detected 65 marker in DICT_7X7_250
+IMG_797.jpg - detected 65 marker in DICT_7X7_250
+IMG_798.jpg - detected 65 marker in DICT_7X7_250
+IMG_799.jpg - detected 65 marker in DICT_7X7_250
+IMG_800.jpg - detected 65 marker in DICT_7X7_250
+IMG_801.jpg - detected 65 marker in DICT_7X7_250
+IMG_802.jpg - detected 65 marker in DICT_7X7_250
+IMG_803.jpg - detected 65 marker in DICT_7X7_250
+IMG_804.jpg - detected 65 marker in DICT_7X7_250
+IMG_805.jpg - detected 65 marker in DICT_7X7_250
+IMG_806.jpg - detected 232 marker in DICT_6X6_250
+IMG_807.jpg - detected 232 marker in DICT_6X6_250
+IMG_808.jpg - detected 232 marker in DICT_6X6_250
+IMG_809.jpg - detected 232 marker in DICT_6X6_250
+IMG_810.jpg - detected 232 marker in DICT_6X6_250
+IMG_811.jpg - detected 232 marker in DICT_6X6_250
+IMG_812.jpg - detected 232 marker in DICT_6X6_250
+IMG_813.jpg - detected 232 marker in DICT_6X6_250
+IMG_814.jpg - detected 232 marker in DICT_6X6_250
+IMG_815.jpg - detected 232 marker in DICT_6X6_250
+IMG_816.jpg - detected 232 marker in DICT_6X6_250
+IMG_817.jpg - detected 232 marker in DICT_6X6_250
+IMG_818.jpg - detected 232 marker in DICT_6X6_250
+IMG_819.jpg - detected 232 marker in DICT_6X6_250
+IMG_820.jpg - detected 232 marker in DICT_6X6_250
+IMG_821.jpg - detected 232 marker in DICT_6X6_250
+IMG_822.jpg - not detected
+IMG_823.jpg - detected 232 marker in DICT_6X6_250
+IMG_824.jpg - not detected
+IMG_825.jpg - not detected
+IMG_826.jpg - not detected
+IMG_827.jpg - detected 232 marker in DICT_6X6_250
+IMG_828.jpg - detected 97 marker in DICT_6X6_250
+IMG_829.jpg - not detected
+IMG_830.jpg - not detected
+IMG_831.jpg - detected 97 marker in DICT_6X6_250
+IMG_832.jpg - detected 97 marker in DICT_6X6_250
+IMG_833.jpg - detected 97 marker in DICT_6X6_250
+IMG_834.jpg - detected 97 marker in DICT_6X6_250
+IMG_835.jpg - detected 97 marker in DICT_6X6_250
+IMG_836.jpg - detected 97 marker in DICT_6X6_250
+IMG_837.jpg - detected 97 marker in DICT_6X6_250
+IMG_838.jpg - detected 97 marker in DICT_6X6_250
+IMG_839.jpg - detected 97 marker in DICT_6X6_250
+IMG_840.jpg - detected 97 marker in DICT_6X6_250
+IMG_841.jpg - detected 97 marker in DICT_6X6_250
+IMG_842.jpg - detected 97 marker in DICT_6X6_250
+IMG_843.jpg - detected 97 marker in DICT_6X6_250
+IMG_844.jpg - detected 97 marker in DICT_6X6_250
+IMG_845.jpg - not detected
+IMG_846.jpg - not detected
+IMG_847.jpg - not detected
+IMG_848.jpg - detected 97 marker in DICT_6X6_250
+IMG_849.jpg - detected 97 marker in DICT_6X6_250
+IMG_850.jpg - detected 134 marker in DICT_4X4_250
+IMG_851.jpg - detected 134 marker in DICT_4X4_250
+IMG_852.jpg - detected 134 marker in DICT_4X4_250
+IMG_853.jpg - detected 134 marker in DICT_4X4_250
+IMG_854.jpg - detected 134 marker in DICT_4X4_250
+IMG_855.jpg - detected 134 marker in DICT_4X4_250
+IMG_856.jpg - detected 134 marker in DICT_4X4_250
+IMG_857.jpg - detected 134 marker in DICT_4X4_250
+IMG_858.jpg - detected 134 marker in DICT_4X4_250
+IMG_859.jpg - detected 134 marker in DICT_4X4_250
+IMG_860.jpg - detected 134 marker in DICT_4X4_250
+IMG_861.jpg - not detected
+IMG_862.jpg - detected 134 marker in DICT_4X4_250
+IMG_863.jpg - detected 134 marker in DICT_4X4_250
+IMG_864.jpg - detected 134 marker in DICT_4X4_250
+IMG_865.jpg - not detected
+IMG_866.jpg - detected 134 marker in DICT_4X4_250
+IMG_867.jpg - detected 134 marker in DICT_4X4_250
+IMG_868.jpg - detected 134 marker in DICT_4X4_250
+IMG_869.jpg - detected 134 marker in DICT_4X4_250
+IMG_870.jpg - detected 149 marker in DICT_5X5_250
+IMG_871.jpg - detected 149 marker in DICT_5X5_250
+IMG_872.jpg - not detected
+IMG_873.jpg - not detected
+IMG_874.jpg - not detected
+IMG_875.jpg - not detected
+IMG_876.jpg - not detected
+IMG_877.jpg - not detected
+IMG_878.jpg - not detected
+IMG_879.jpg - not detected
+IMG_880.jpg - detected 149 marker in DICT_5X5_250
+IMG_881.jpg - detected 149 marker in DICT_5X5_250
+IMG_882.jpg - detected 149 marker in DICT_5X5_250
+IMG_883.jpg - not detected
+IMG_884.jpg - detected 149 marker in DICT_5X5_250
+IMG_885.jpg - detected 149 marker in DICT_5X5_250
+IMG_886.jpg - detected 149 marker in DICT_5X5_250
+IMG_887.jpg - detected 149 marker in DICT_5X5_250
+IMG_888.jpg - detected 149 marker in DICT_5X5_250
+IMG_889.jpg - detected 149 marker in DICT_5X5_250
+IMG_890.jpg - detected 149 marker in DICT_5X5_250
+IMG_891.jpg - detected 149 marker in DICT_5X5_250
+IMG_892.jpg - detected 134 marker in DICT_4X4_250
+IMG_893.jpg - detected 134 marker in DICT_4X4_250
+IMG_894.jpg - detected 134 marker in DICT_4X4_250
+IMG_895.jpg - not detected
+IMG_896.jpg - not detected
+IMG_897.jpg - not detected
+IMG_898.jpg - not detected
+IMG_899.jpg - not detected
+IMG_900.jpg - not detected
+IMG_901.jpg - not detected
+IMG_902.jpg - not detected
+IMG_903.jpg - detected 134 marker in DICT_4X4_250
+IMG_904.jpg - detected 134 marker in DICT_4X4_250
+IMG_905.jpg - detected 134 marker in DICT_4X4_250
+IMG_906.jpg - detected 134 marker in DICT_4X4_250
+IMG_907.jpg - detected 134 marker in DICT_4X4_250
+IMG_908.jpg - detected 134 marker in DICT_4X4_250
+IMG_909.jpg - detected 134 marker in DICT_4X4_250
+IMG_910.jpg - detected 134 marker in DICT_4X4_250
+IMG_911.jpg - detected 10 marker in DICT_7X7_250
+IMG_912.jpg - detected 10 marker in DICT_7X7_250
+IMG_913.jpg - not detected
+IMG_914.jpg - not detected
+IMG_915.jpg - not detected
+IMG_916.jpg - not detected
+IMG_917.jpg - not detected
+IMG_918.jpg - not detected
+IMG_919.jpg - not detected
+IMG_920.jpg - not detected
+IMG_921.jpg - detected 10 marker in DICT_7X7_250
+IMG_922.jpg - detected 10 marker in DICT_7X7_250
+IMG_923.jpg - detected 10 marker in DICT_7X7_250
+IMG_924.jpg - not detected
+IMG_925.jpg - detected 10 marker in DICT_7X7_250
+IMG_926.jpg - detected 10 marker in DICT_7X7_250
+IMG_927.jpg - not detected
+IMG_928.jpg - not detected
+IMG_929.jpg - detected 10 marker in DICT_7X7_250
+IMG_930.jpg - detected 97 marker in DICT_6X6_250
+IMG_931.jpg - detected 97 marker in DICT_6X6_250
+IMG_932.jpg - detected 97 marker in DICT_6X6_250
+IMG_933.jpg - not detected
+IMG_934.jpg - not detected
+IMG_935.jpg - not detected
+IMG_936.jpg - not detected
+IMG_937.jpg - not detected
+IMG_938.jpg - not detected
+IMG_939.jpg - not detected
+IMG_940.jpg - not detected
+IMG_941.jpg - not detected
+IMG_942.jpg - detected 97 marker in DICT_6X6_250
+IMG_943.jpg - detected 97 marker in DICT_6X6_250
+IMG_944.jpg - detected 97 marker in DICT_6X6_250
+IMG_945.jpg - detected 97 marker in DICT_6X6_250
+IMG_946.jpg - detected 97 marker in DICT_6X6_250
+IMG_947.jpg - detected 97 marker in DICT_6X6_250
+IMG_948.jpg - detected 97 marker in DICT_6X6_250
+IMG_949.jpg - detected 97 marker in DICT_6X6_250
+IMG_950.jpg - not detected
+IMG_951.jpg - detected 97 marker in DICT_6X6_250
+IMG_952.jpg - detected 157 marker in DICT_6X6_250
+IMG_953.jpg - detected 157 marker in DICT_6X6_250
+IMG_954.jpg - detected 157 marker in DICT_6X6_250
+IMG_955.jpg - not detected
+IMG_956.jpg - not detected
+IMG_957.jpg - not detected
+IMG_958.jpg - not detected
+IMG_959.jpg - not detected
+IMG_960.jpg - not detected
+IMG_961.jpg - not detected
+IMG_962.jpg - not detected
+IMG_963.jpg - detected 157 marker in DICT_6X6_250
+IMG_964.jpg - detected 157 marker in DICT_6X6_250
+IMG_965.jpg - detected 157 marker in DICT_6X6_250
+IMG_966.jpg - detected 157 marker in DICT_6X6_250
+IMG_967.jpg - detected 157 marker in DICT_6X6_250
+IMG_968.jpg - detected 157 marker in DICT_6X6_250
+IMG_969.jpg - detected 157 marker in DICT_6X6_250
+IMG_970.jpg - detected 157 marker in DICT_6X6_250
+IMG_971.jpg - detected 157 marker in DICT_6X6_250
+IMG_972.jpg - detected 157 marker in DICT_6X6_250
+IMG_973.jpg - detected 157 marker in DICT_6X6_250
+IMG_974.jpg - detected 157 marker in DICT_6X6_250
+IMG_975.jpg - detected 157 marker in DICT_6X6_250
+IMG_976.jpg - detected 157 marker in DICT_6X6_250
+IMG_977.jpg - detected 154 marker in DICT_7X7_250
+IMG_978.jpg - detected 154 marker in DICT_7X7_250
+IMG_979.jpg - not detected
+IMG_980.jpg - not detected
+IMG_981.jpg - not detected
+IMG_982.jpg - not detected
+IMG_983.jpg - not detected
+IMG_984.jpg - not detected
+IMG_985.jpg - not detected
+IMG_986.jpg - detected 154 marker in DICT_7X7_250
+IMG_987.jpg - not detected
+IMG_988.jpg - not detected
+IMG_989.jpg - not detected
+IMG_990.jpg - detected 154 marker in DICT_7X7_250
+IMG_991.jpg - detected 154 marker in DICT_7X7_250
+IMG_992.jpg - not detected
+IMG_993.jpg - not detected
+IMG_994.jpg - detected 154 marker in DICT_7X7_250
+IMG_995.jpg - detected 154 marker in DICT_7X7_250
+IMG_996.jpg - detected 154 marker in DICT_7X7_250
+IMG_997.jpg - detected 154 marker in DICT_7X7_250
+IMG_998.jpg - detected 154 marker in DICT_7X7_250
+IMG_999.jpg - detected 12 marker in DICT_4X4_250
+IMG_1000.jpg - detected 12 marker in DICT_4X4_250
+IMG_1001.jpg - detected 12 marker in DICT_4X4_250
+IMG_1002.jpg - not detected
+IMG_1003.jpg - not detected
+IMG_1004.jpg - not detected
+IMG_1005.jpg - not detected
+IMG_1006.jpg - not detected
+IMG_1007.jpg - not detected
+IMG_1008.jpg - not detected
+IMG_1009.jpg - not detected
+IMG_1010.jpg - detected 12 marker in DICT_4X4_250
+IMG_1011.jpg - detected 12 marker in DICT_4X4_250
+IMG_1012.jpg - detected 12 marker in DICT_4X4_250
+IMG_1013.jpg - detected 12 marker in DICT_4X4_250
+IMG_1014.jpg - detected 12 marker in DICT_4X4_250
+IMG_1015.jpg - detected 12 marker in DICT_4X4_250
+IMG_1016.jpg - detected 12 marker in DICT_4X4_250
+IMG_1017.jpg - detected 12 marker in DICT_4X4_250
+IMG_1018.jpg - detected 12 marker in DICT_4X4_250
+IMG_1019.jpg - not detected
+IMG_1020.jpg - not detected
+IMG_1021.jpg - detected 102 marker in DICT_5X5_250
+IMG_1022.jpg - detected 102 marker in DICT_5X5_250
+IMG_1023.jpg - not detected
+IMG_1024.jpg - not detected
+IMG_1025.jpg - not detected
+IMG_1026.jpg - not detected
+IMG_1027.jpg - not detected
+IMG_1028.jpg - not detected
+IMG_1029.jpg - not detected
+IMG_1030.jpg - not detected
+IMG_1031.jpg - not detected
+IMG_1032.jpg - detected 102 marker in DICT_5X5_250
+IMG_1033.jpg - detected 102 marker in DICT_5X5_250
+IMG_1034.jpg - not detected
+IMG_1035.jpg - detected 102 marker in DICT_5X5_250
+IMG_1036.jpg - detected 102 marker in DICT_5X5_250
+IMG_1037.jpg - detected 102 marker in DICT_5X5_250
+IMG_1038.jpg - detected 102 marker in DICT_5X5_250
+IMG_1039.jpg - detected 17 marker in DICT_4X4_250
+IMG_1040.jpg - detected 102 marker in DICT_5X5_250
+IMG_1041.jpg - detected 43 marker in DICT_4X4_250
+IMG_1042.jpg - detected 43 marker in DICT_4X4_250
+IMG_1043.jpg - not detected
+IMG_1044.jpg - not detected
+IMG_1045.jpg - not detected
+IMG_1046.jpg - not detected
+IMG_1047.jpg - not detected
+IMG_1048.jpg - not detected
+IMG_1049.jpg - not detected
+IMG_1050.jpg - not detected
+IMG_1051.jpg - not detected
+IMG_1052.jpg - detected 43 marker in DICT_4X4_250
+IMG_1053.jpg - detected 43 marker in DICT_4X4_250
+IMG_1054.jpg - detected 43 marker in DICT_4X4_250
+IMG_1055.jpg - detected 43 marker in DICT_4X4_250
+IMG_1056.jpg - detected 43 marker in DICT_4X4_250
+IMG_1057.jpg - not detected
+IMG_1058.jpg - detected 43 marker in DICT_4X4_250
+IMG_1059.jpg - detected 43 marker in DICT_4X4_250
+IMG_1060.jpg - detected 43 marker in DICT_4X4_250
+IMG_1061.jpg - detected 43 marker in DICT_4X4_250
+IMG_1062.jpg - not detected
+IMG_1063.jpg - detected 168 marker in DICT_5X5_250
+IMG_1064.jpg - detected 168 marker in DICT_5X5_250
+IMG_1065.jpg - not detected
+IMG_1066.jpg - not detected
+IMG_1067.jpg - not detected
+IMG_1068.jpg - not detected
+IMG_1069.jpg - not detected
+IMG_1070.jpg - not detected
+IMG_1071.jpg - not detected
+IMG_1072.jpg - not detected
+IMG_1073.jpg - not detected
+IMG_1074.jpg - detected 168 marker in DICT_5X5_250
+IMG_1075.jpg - detected 168 marker in DICT_5X5_250
+IMG_1076.jpg - detected 168 marker in DICT_5X5_250
+IMG_1077.jpg - detected 168 marker in DICT_5X5_250
+IMG_1078.jpg - detected 168 marker in DICT_5X5_250
+IMG_1079.jpg - detected 168 marker in DICT_5X5_250
+IMG_1080.jpg - detected 168 marker in DICT_5X5_250
+IMG_1081.jpg - detected 168 marker in DICT_5X5_250
+IMG_1082.jpg - not detected
+IMG_1083.jpg - detected 190 marker in DICT_7X7_250
+IMG_1084.jpg - detected 190 marker in DICT_7X7_250
+IMG_1085.jpg - not detected
+IMG_1086.jpg - not detected
+IMG_1087.jpg - not detected
+IMG_1088.jpg - not detected
+IMG_1089.jpg - not detected
+IMG_1090.jpg - not detected
+IMG_1091.jpg - not detected
+IMG_1092.jpg - not detected
+IMG_1093.jpg - detected 190 marker in DICT_7X7_250
+IMG_1094.jpg - detected 190 marker in DICT_7X7_250
+IMG_1095.jpg - detected 190 marker in DICT_7X7_250
+IMG_1096.jpg - detected 190 marker in DICT_7X7_250
+IMG_1097.jpg - detected 190 marker in DICT_7X7_250
+IMG_1098.jpg - not detected
+IMG_1099.jpg - detected 190 marker in DICT_7X7_250
+IMG_1100.jpg - detected 190 marker in DICT_7X7_250
+IMG_1101.jpg - detected 190 marker in DICT_7X7_250
+IMG_1102.jpg - detected 65 marker in DICT_7X7_250
+IMG_1103.jpg - detected 65 marker in DICT_7X7_250
+IMG_1104.jpg - detected 65 marker in DICT_7X7_250
+IMG_1105.jpg - detected 65 marker in DICT_7X7_250
+IMG_1106.jpg - not detected
+IMG_1107.jpg - not detected
+IMG_1108.jpg - not detected
+IMG_1109.jpg - not detected
+IMG_1110.jpg - not detected
+IMG_1111.jpg - not detected
+IMG_1112.jpg - not detected
+IMG_1113.jpg - not detected
+IMG_1114.jpg - detected 65 marker in DICT_7X7_250
+IMG_1115.jpg - detected 65 marker in DICT_7X7_250
+IMG_1116.jpg - detected 65 marker in DICT_7X7_250
+IMG_1117.jpg - detected 65 marker in DICT_7X7_250
+IMG_1118.jpg - not detected
+IMG_1119.jpg - detected 65 marker in DICT_7X7_250
+IMG_1120.jpg - detected 65 marker in DICT_7X7_250
+IMG_1121.jpg - detected 65 marker in DICT_7X7_250
+IMG_1122.jpg - detected 65 marker in DICT_7X7_250
+IMG_1123.jpg - detected 232 marker in DICT_6X6_250
+IMG_1124.jpg - detected 232 marker in DICT_6X6_250
+IMG_1125.jpg - not detected
+IMG_1126.jpg - not detected
+IMG_1127.jpg - not detected
+IMG_1128.jpg - not detected
+IMG_1129.jpg - not detected
+IMG_1130.jpg - not detected
+IMG_1131.jpg - not detected
+IMG_1132.jpg - detected 232 marker in DICT_6X6_250
+IMG_1133.jpg - detected 232 marker in DICT_6X6_250
+IMG_1134.jpg - detected 232 marker in DICT_6X6_250
+IMG_1135.jpg - detected 232 marker in DICT_6X6_250
+IMG_1136.jpg - detected 232 marker in DICT_6X6_250
+IMG_1137.jpg - detected 232 marker in DICT_6X6_250
+IMG_1138.jpg - detected 232 marker in DICT_6X6_250
+IMG_1139.jpg - detected 232 marker in DICT_6X6_250
+IMG_1140.jpg - detected 232 marker in DICT_6X6_250
+IMG_1141.jpg - detected 232 marker in DICT_6X6_250
+IMG_1142.jpg - detected 232 marker in DICT_6X6_250
+IMG_1143.jpg - detected 232 marker in DICT_6X6_250
+IMG_1144.jpg - detected 166 marker in DICT_4X4_250
+IMG_1145.jpg - detected 166 marker in DICT_4X4_250
+IMG_1146.jpg - not detected
+IMG_1147.jpg - not detected
+IMG_1148.jpg - not detected
+IMG_1149.jpg - not detected
+IMG_1150.jpg - not detected
+IMG_1151.jpg - not detected
+IMG_1152.jpg - not detected
+IMG_1153.jpg - not detected
+IMG_1154.jpg - not detected
+IMG_1155.jpg - detected 166 marker in DICT_4X4_250
+IMG_1156.jpg - detected 166 marker in DICT_4X4_250
+IMG_1157.jpg - not detected
+IMG_1158.jpg - not detected
+IMG_1159.jpg - detected 166 marker in DICT_4X4_250
+IMG_1160.jpg - detected 166 marker in DICT_4X4_250
+IMG_1161.jpg - detected 166 marker in DICT_4X4_250
+IMG_1162.jpg - detected 166 marker in DICT_4X4_250
+IMG_1163.jpg - detected 166 marker in DICT_4X4_250
+IMG_1164.jpg - detected 166 marker in DICT_4X4_250
+IMG_1165.jpg - detected 123 marker in DICT_6X6_250
+IMG_1166.jpg - detected 123 marker in DICT_6X6_250
+IMG_1167.jpg - detected 123 marker in DICT_6X6_250
+IMG_1168.jpg - not detected
+IMG_1169.jpg - not detected
+IMG_1170.jpg - not detected
+IMG_1171.jpg - not detected
+IMG_1172.jpg - not detected
+IMG_1173.jpg - not detected
+IMG_1174.jpg - not detected
+IMG_1175.jpg - not detected
+IMG_1176.jpg - not detected
+IMG_1177.jpg - detected 123 marker in DICT_6X6_250
+IMG_1178.jpg - not detected
+IMG_1179.jpg - detected 123 marker in DICT_6X6_250
+IMG_1180.jpg - detected 123 marker in DICT_6X6_250
+IMG_1181.jpg - detected 123 marker in DICT_6X6_250
+IMG_1182.jpg - detected 123 marker in DICT_6X6_250
+IMG_1183.jpg - detected 123 marker in DICT_6X6_250
+IMG_1184.jpg - detected 123 marker in DICT_6X6_250
+IMG_1185.jpg - detected 123 marker in DICT_6X6_250
+IMG_1186.jpg - detected 123 marker in DICT_6X6_250
+IMG_1187.jpg - detected 123 marker in DICT_6X6_250
+IMG_1188.jpg - detected 123 marker in DICT_6X6_250
+IMG_1189.jpg - detected 234 marker in DICT_5X5_250
+IMG_1190.jpg - detected 234 marker in DICT_5X5_250
+IMG_1191.jpg - detected 234 marker in DICT_5X5_250
+IMG_1192.jpg - not detected
+IMG_1193.jpg - not detected
+IMG_1194.jpg - not detected
+IMG_1195.jpg - not detected
+IMG_1196.jpg - not detected
+IMG_1197.jpg - not detected
+IMG_1198.jpg - not detected
+IMG_1199.jpg - not detected
+IMG_1200.jpg - detected 234 marker in DICT_5X5_250
+IMG_1201.jpg - detected 234 marker in DICT_5X5_250
+IMG_1202.jpg - detected 234 marker in DICT_5X5_250
+IMG_1203.jpg - detected 234 marker in DICT_5X5_250
+IMG_1204.jpg - detected 234 marker in DICT_5X5_250
+IMG_1205.jpg - detected 234 marker in DICT_5X5_250
+IMG_1206.jpg - detected 234 marker in DICT_5X5_250
+IMG_1207.jpg - detected 234 marker in DICT_5X5_250
+IMG_1208.jpg - detected 91 marker in DICT_4X4_250
+IMG_1209.jpg - detected 234 marker in DICT_5X5_250
+IMG_1210.jpg - detected 234 marker in DICT_5X5_250
+IMG_1211.jpg - not detected
+IMG_1212.jpg - detected 134 marker in DICT_4X4_250
+IMG_1213.jpg - detected 134 marker in DICT_4X4_250
+IMG_1214.jpg - detected 134 marker in DICT_4X4_250
+IMG_1215.jpg - detected 134 marker in DICT_4X4_250
+IMG_1216.jpg - detected 134 marker in DICT_4X4_250
+IMG_1217.jpg - detected 134 marker in DICT_4X4_250
+IMG_1218.jpg - detected 134 marker in DICT_4X4_250
+IMG_1219.jpg - detected 134 marker in DICT_4X4_250
+IMG_1220.jpg - not detected
+IMG_1221.jpg - not detected
+IMG_1222.jpg - detected 134 marker in DICT_4X4_250
+IMG_1223.jpg - not detected
+IMG_1224.jpg - not detected
+IMG_1225.jpg - detected 134 marker in DICT_4X4_250
+IMG_1226.jpg - detected 134 marker in DICT_4X4_250
+IMG_1227.jpg - detected 134 marker in DICT_4X4_250
+IMG_1228.jpg - detected 134 marker in DICT_4X4_250
+IMG_1229.jpg - detected 134 marker in DICT_4X4_250
+IMG_1230.jpg - detected 134 marker in DICT_4X4_250
+IMG_1231.jpg - detected 134 marker in DICT_4X4_250
+IMG_1232.jpg - not detected
+IMG_1233.jpg - detected 134 marker in DICT_4X4_250
+IMG_1234.jpg - not detected
+IMG_1235.jpg - detected 97 marker in DICT_6X6_250
+IMG_1236.jpg - detected 97 marker in DICT_6X6_250
+IMG_1237.jpg - detected 97 marker in DICT_6X6_250
+IMG_1238.jpg - detected 22 marker in DICT_4X4_250
+IMG_1239.jpg - not detected
+IMG_1240.jpg - detected 97 marker in DICT_6X6_250
+IMG_1241.jpg - detected 97 marker in DICT_6X6_250
+IMG_1242.jpg - detected 97 marker in DICT_6X6_250
+IMG_1243.jpg - detected 97 marker in DICT_6X6_250
+IMG_1244.jpg - not detected
+IMG_1245.jpg - detected 97 marker in DICT_6X6_250
+IMG_1246.jpg - not detected
+IMG_1247.jpg - detected 232 marker in DICT_6X6_250
+IMG_1248.jpg - detected 232 marker in DICT_6X6_250
+IMG_1249.jpg - detected 232 marker in DICT_6X6_250
+IMG_1250.jpg - detected 232 marker in DICT_6X6_250
+IMG_1251.jpg - detected 232 marker in DICT_6X6_250
+IMG_1252.jpg - detected 232 marker in DICT_6X6_250
+IMG_1253.jpg - detected 232 marker in DICT_6X6_250
+IMG_1254.jpg - detected 232 marker in DICT_6X6_250
+IMG_1255.jpg - detected 232 marker in DICT_6X6_250
+IMG_1256.jpg - detected 232 marker in DICT_6X6_250
+IMG_1257.jpg - detected 232 marker in DICT_6X6_250
+IMG_1258.jpg - detected 232 marker in DICT_6X6_250
+IMG_1259.jpg - detected 232 marker in DICT_6X6_250
+IMG_1260.jpg - detected 232 marker in DICT_6X6_250
+IMG_1261.jpg - detected 65 marker in DICT_7X7_250
+IMG_1262.jpg - detected 65 marker in DICT_7X7_250
+IMG_1263.jpg - detected 65 marker in DICT_7X7_250
+IMG_1264.jpg - detected 65 marker in DICT_7X7_250
+IMG_1265.jpg - detected 65 marker in DICT_7X7_250
+IMG_1266.jpg - detected 65 marker in DICT_7X7_250
+IMG_1267.jpg - detected 65 marker in DICT_7X7_250
+IMG_1268.jpg - detected 65 marker in DICT_7X7_250
+IMG_1269.jpg - detected 65 marker in DICT_7X7_250
+IMG_1270.jpg - detected 65 marker in DICT_7X7_250
+IMG_1271.jpg - detected 65 marker in DICT_7X7_250
+IMG_1272.jpg - detected 65 marker in DICT_7X7_250
+IMG_1273.jpg - detected 65 marker in DICT_7X7_250
+IMG_1274.jpg - detected 154 marker in DICT_7X7_250
+IMG_1275.jpg - detected 154 marker in DICT_7X7_250
+IMG_1276.jpg - detected 154 marker in DICT_7X7_250
+IMG_1277.jpg - detected 154 marker in DICT_7X7_250
+IMG_1278.jpg - detected 154 marker in DICT_7X7_250
+IMG_1279.jpg - detected 154 marker in DICT_7X7_250
+IMG_1280.jpg - detected 154 marker in DICT_7X7_250
+IMG_1281.jpg - detected 154 marker in DICT_7X7_250
+IMG_1282.jpg - detected 154 marker in DICT_7X7_250
+IMG_1283.jpg - detected 154 marker in DICT_7X7_250
+IMG_1284.jpg - detected 154 marker in DICT_7X7_250
+IMG_1285.jpg - detected 154 marker in DICT_7X7_250
+IMG_1286.jpg - not detected
+IMG_1287.jpg - detected 190 marker in DICT_7X7_250
+IMG_1288.jpg - detected 190 marker in DICT_7X7_250
+IMG_1289.jpg - detected 190 marker in DICT_7X7_250
+IMG_1290.jpg - detected 190 marker in DICT_7X7_250
+IMG_1291.jpg - detected 190 marker in DICT_7X7_250
+IMG_1292.jpg - detected 190 marker in DICT_7X7_250
+IMG_1293.jpg - detected 190 marker in DICT_7X7_250
+IMG_1294.jpg - detected 190 marker in DICT_7X7_250
+IMG_1295.jpg - not detected
+IMG_1296.jpg - detected 190 marker in DICT_7X7_250
+IMG_1297.jpg - not detected
+IMG_1298.jpg - detected 190 marker in DICT_7X7_250
+IMG_1299.jpg - detected 190 marker in DICT_7X7_250
+IMG_1300.jpg - not detected
+IMG_1301.jpg - detected 10 marker in DICT_7X7_250
+IMG_1302.jpg - detected 10 marker in DICT_7X7_250
+IMG_1303.jpg - detected 10 marker in DICT_7X7_250
+IMG_1304.jpg - detected 10 marker in DICT_7X7_250
+IMG_1305.jpg - not detected
+IMG_1306.jpg - not detected
+IMG_1307.jpg - detected 10 marker in DICT_7X7_250
+IMG_1308.jpg - not detected
+IMG_1309.jpg - detected 10 marker in DICT_7X7_250
+IMG_1310.jpg - detected 10 marker in DICT_7X7_250
+IMG_1311.jpg - detected 10 marker in DICT_7X7_250
+IMG_1312.jpg - not detected
+IMG_1313.jpg - not detected
+IMG_1314.jpg - detected 123 marker in DICT_6X6_250
+IMG_1315.jpg - detected 123 marker in DICT_6X6_250
+IMG_1316.jpg - detected 123 marker in DICT_6X6_250
+IMG_1317.jpg - detected 123 marker in DICT_6X6_250
+IMG_1318.jpg - detected 123 marker in DICT_6X6_250
+IMG_1319.jpg - not detected
+IMG_1320.jpg - detected 123 marker in DICT_6X6_250
+IMG_1321.jpg - detected 123 marker in DICT_6X6_250
+IMG_1322.jpg - not detected
+IMG_1323.jpg - not detected
+IMG_1324.jpg - detected 123 marker in DICT_6X6_250
+IMG_1325.jpg - detected 123 marker in DICT_6X6_250
+IMG_1326.jpg - not detected
+IMG_1327.jpg - detected 157 marker in DICT_6X6_250
+IMG_1328.jpg - detected 157 marker in DICT_6X6_250
+IMG_1329.jpg - detected 157 marker in DICT_6X6_250
+IMG_1330.jpg - detected 157 marker in DICT_6X6_250
+IMG_1331.jpg - detected 157 marker in DICT_6X6_250
+IMG_1332.jpg - detected 157 marker in DICT_6X6_250
+IMG_1333.jpg - not detected
+IMG_1334.jpg - not detected
+IMG_1335.jpg - detected 157 marker in DICT_6X6_250
+IMG_1336.jpg - detected 157 marker in DICT_6X6_250
+IMG_1337.jpg - detected 157 marker in DICT_6X6_250
+IMG_1338.jpg - detected 157 marker in DICT_6X6_250
+IMG_1339.jpg - detected 149 marker in DICT_5X5_250
+IMG_1340.jpg - detected 149 marker in DICT_5X5_250
+IMG_1341.jpg - detected 149 marker in DICT_5X5_250
+IMG_1342.jpg - detected 149 marker in DICT_5X5_250
+IMG_1343.jpg - detected 149 marker in DICT_5X5_250
+IMG_1344.jpg - detected 149 marker in DICT_5X5_250
+IMG_1345.jpg - detected 149 marker in DICT_5X5_250
+IMG_1346.jpg - detected 149 marker in DICT_5X5_250
+IMG_1347.jpg - detected 149 marker in DICT_5X5_250
+IMG_1348.jpg - detected 149 marker in DICT_5X5_250
+IMG_1349.jpg - detected 149 marker in DICT_5X5_250
+IMG_1350.jpg - detected 149 marker in DICT_5X5_250
+IMG_1351.jpg - detected 149 marker in DICT_5X5_250
+IMG_1352.jpg - detected 234 marker in DICT_5X5_250
+IMG_1353.jpg - detected 234 marker in DICT_5X5_250
+IMG_1354.jpg - detected 234 marker in DICT_5X5_250
+IMG_1355.jpg - detected 234 marker in DICT_5X5_250
+IMG_1356.jpg - detected 234 marker in DICT_5X5_250
+IMG_1357.jpg - detected 234 marker in DICT_5X5_250
+IMG_1358.jpg - detected 234 marker in DICT_5X5_250
+IMG_1359.jpg - detected 234 marker in DICT_5X5_250
+IMG_1360.jpg - detected 234 marker in DICT_5X5_250
+IMG_1361.jpg - detected 234 marker in DICT_5X5_250
+IMG_1362.jpg - detected 234 marker in DICT_5X5_250
+IMG_1363.jpg - detected 234 marker in DICT_5X5_250
+IMG_1364.jpg - not detected
+IMG_1365.jpg - detected 43 marker in DICT_4X4_250
+IMG_1366.jpg - detected 43 marker in DICT_4X4_250
+IMG_1367.jpg - detected 43 marker in DICT_4X4_250
+IMG_1368.jpg - detected 43 marker in DICT_4X4_250
+IMG_1369.jpg - detected 43 marker in DICT_4X4_250
+IMG_1370.jpg - detected 43 marker in DICT_4X4_250
+IMG_1371.jpg - detected 43 marker in DICT_4X4_250
+IMG_1372.jpg - not detected
+IMG_1373.jpg - detected 43 marker in DICT_4X4_250
+IMG_1374.jpg - not detected
+IMG_1375.jpg - detected 168 marker in DICT_5X5_250
+IMG_1376.jpg - detected 168 marker in DICT_5X5_250
+IMG_1377.jpg - detected 168 marker in DICT_5X5_250
+IMG_1378.jpg - detected 168 marker in DICT_5X5_250
+IMG_1379.jpg - detected 168 marker in DICT_5X5_250
+IMG_1380.jpg - detected 168 marker in DICT_5X5_250
+IMG_1381.jpg - not detected
+IMG_1382.jpg - detected 168 marker in DICT_5X5_250
+IMG_1383.jpg - detected 168 marker in DICT_5X5_250
+IMG_1384.jpg - not detected
+IMG_1385.jpg - detected 168 marker in DICT_5X5_250
+IMG_1386.jpg - not detected
+IMG_1387.jpg - detected 168 marker in DICT_5X5_250
+IMG_1388.jpg - not detected
+IMG_1389.jpg - detected 102 marker in DICT_5X5_250
+IMG_1390.jpg - detected 102 marker in DICT_5X5_250
+IMG_1391.jpg - detected 102 marker in DICT_5X5_250
+IMG_1392.jpg - detected 102 marker in DICT_5X5_250
+IMG_1393.jpg - detected 102 marker in DICT_5X5_250
+IMG_1394.jpg - detected 102 marker in DICT_5X5_250
+IMG_1395.jpg - detected 102 marker in DICT_5X5_250
+IMG_1396.jpg - not detected
+IMG_1397.jpg - detected 102 marker in DICT_5X5_250
+IMG_1398.jpg - detected 102 marker in DICT_5X5_250
+IMG_1399.jpg - detected 102 marker in DICT_5X5_250
+IMG_1400.jpg - detected 102 marker in DICT_5X5_250
+IMG_1401.jpg - detected 166 marker in DICT_4X4_250
+IMG_1402.jpg - detected 166 marker in DICT_4X4_250
+IMG_1403.jpg - detected 166 marker in DICT_4X4_250
+IMG_1404.jpg - detected 166 marker in DICT_4X4_250
+IMG_1405.jpg - detected 166 marker in DICT_4X4_250
+IMG_1406.jpg - detected 166 marker in DICT_4X4_250
+IMG_1407.jpg - detected 166 marker in DICT_4X4_250
+IMG_1408.jpg - detected 166 marker in DICT_4X4_250
+IMG_1409.jpg - not detected
+IMG_1410.jpg - detected 166 marker in DICT_4X4_250
+IMG_1411.jpg - detected 166 marker in DICT_4X4_250
+IMG_1412.jpg - detected 166 marker in DICT_4X4_250
+IMG_1413.jpg - not detected
+IMG_1414.jpg - detected 12 marker in DICT_4X4_250
+IMG_1415.jpg - detected 12 marker in DICT_4X4_250
+IMG_1416.jpg - detected 12 marker in DICT_4X4_250
+IMG_1417.jpg - detected 12 marker in DICT_4X4_250
+IMG_1418.jpg - detected 12 marker in DICT_4X4_250
+IMG_1419.jpg - detected 12 marker in DICT_4X4_250
+IMG_1420.jpg - detected 12 marker in DICT_4X4_250
+IMG_1421.jpg - detected 12 marker in DICT_4X4_250
+IMG_1422.jpg - not detected
+IMG_1423.jpg - detected 12 marker in DICT_4X4_250
+IMG_1424.jpg - detected 12 marker in DICT_4X4_250
+IMG_1425.jpg - detected 12 marker in DICT_4X4_250
+IMG_1426.jpg - detected 12 marker in DICT_4X4_250
+IMG_1427.jpg - detected 12 marker in DICT_4X4_250
+IMG_1428.jpg - detected 12 marker in DICT_4X4_250
+IMG_1429.jpg - detected 12 marker in DICT_4X4_250
+IMG_1430.jpg - detected 12 marker in DICT_4X4_250
+IMG_1431.jpg - detected 12 marker in DICT_4X4_250
+IMG_1432.jpg - detected 12 marker in DICT_4X4_250
+IMG_1433.jpg - detected 12 marker in DICT_4X4_250
+IMG_1434.jpg - detected 12 marker in DICT_4X4_250
+IMG_1435.jpg - detected 12 marker in DICT_4X4_250
+IMG_1436.jpg - detected 12 marker in DICT_4X4_250
+IMG_1437.jpg - detected 12 marker in DICT_4X4_250
+IMG_1438.jpg - detected 12 marker in DICT_4X4_250
+IMG_1439.jpg - detected 12 marker in DICT_4X4_250
+IMG_1440.jpg - detected 166 marker in DICT_4X4_250
+IMG_1441.jpg - detected 166 marker in DICT_4X4_250
+IMG_1442.jpg - detected 166 marker in DICT_4X4_250
+IMG_1443.jpg - detected 166 marker in DICT_4X4_250
+IMG_1444.jpg - detected 166 marker in DICT_4X4_250
+IMG_1445.jpg - detected 166 marker in DICT_4X4_250
+IMG_1446.jpg - detected 166 marker in DICT_4X4_250
+IMG_1447.jpg - detected 166 marker in DICT_4X4_250
+IMG_1448.jpg - detected 166 marker in DICT_4X4_250
+IMG_1449.jpg - detected 166 marker in DICT_4X4_250
+IMG_1450.jpg - detected 166 marker in DICT_4X4_250
+IMG_1451.jpg - detected 166 marker in DICT_4X4_250
+IMG_1452.jpg - detected 166 marker in DICT_4X4_250
+IMG_1453.jpg - detected 166 marker in DICT_4X4_250
+IMG_1454.jpg - detected 166 marker in DICT_4X4_250
+IMG_1455.jpg - detected 102 marker in DICT_5X5_250
+IMG_1456.jpg - detected 102 marker in DICT_5X5_250
+IMG_1457.jpg - detected 102 marker in DICT_5X5_250
+IMG_1458.jpg - detected 102 marker in DICT_5X5_250
+IMG_1459.jpg - detected 102 marker in DICT_5X5_250
+IMG_1460.jpg - detected 102 marker in DICT_5X5_250
+IMG_1461.jpg - detected 102 marker in DICT_5X5_250
+IMG_1462.jpg - detected 102 marker in DICT_5X5_250
+IMG_1463.jpg - detected 102 marker in DICT_5X5_250
+IMG_1464.jpg - detected 102 marker in DICT_5X5_250
+IMG_1465.jpg - detected 102 marker in DICT_5X5_250
+IMG_1466.jpg - detected 102 marker in DICT_5X5_250
+IMG_1467.jpg - detected 102 marker in DICT_5X5_250
+IMG_1468.jpg - detected 168 marker in DICT_5X5_250
+IMG_1469.jpg - detected 168 marker in DICT_5X5_250
+IMG_1470.jpg - detected 168 marker in DICT_5X5_250
+IMG_1471.jpg - detected 168 marker in DICT_5X5_250
+IMG_1472.jpg - detected 168 marker in DICT_5X5_250
+IMG_1473.jpg - detected 168 marker in DICT_5X5_250
+IMG_1474.jpg - detected 168 marker in DICT_5X5_250
+IMG_1475.jpg - detected 168 marker in DICT_5X5_250
+IMG_1476.jpg - detected 168 marker in DICT_5X5_250
+IMG_1477.jpg - detected 168 marker in DICT_5X5_250
+IMG_1478.jpg - detected 168 marker in DICT_5X5_250
+IMG_1479.jpg - detected 168 marker in DICT_5X5_250
+IMG_1480.jpg - detected 168 marker in DICT_5X5_250
+IMG_1481.jpg - detected 43 marker in DICT_4X4_250
+IMG_1482.jpg - detected 43 marker in DICT_4X4_250
+IMG_1483.jpg - detected 43 marker in DICT_4X4_250
+IMG_1484.jpg - detected 43 marker in DICT_4X4_250
+IMG_1485.jpg - detected 43 marker in DICT_4X4_250
+IMG_1486.jpg - detected 43 marker in DICT_4X4_250
+IMG_1487.jpg - detected 43 marker in DICT_4X4_250
+IMG_1488.jpg - detected 43 marker in DICT_4X4_250
+IMG_1489.jpg - detected 43 marker in DICT_4X4_250
+IMG_1490.jpg - detected 234 marker in DICT_5X5_250
+IMG_1491.jpg - detected 234 marker in DICT_5X5_250
+IMG_1492.jpg - detected 234 marker in DICT_5X5_250
+IMG_1493.jpg - detected 234 marker in DICT_5X5_250
+IMG_1494.jpg - detected 234 marker in DICT_5X5_250
+IMG_1495.jpg - detected 234 marker in DICT_5X5_250
+IMG_1496.jpg - detected 234 marker in DICT_5X5_250
+IMG_1497.jpg - detected 234 marker in DICT_5X5_250
+IMG_1498.jpg - detected 234 marker in DICT_5X5_250
+IMG_1499.jpg - detected 234 marker in DICT_5X5_250
+IMG_1500.jpg - detected 149 marker in DICT_5X5_250
+IMG_1501.jpg - detected 149 marker in DICT_5X5_250
+IMG_1502.jpg - detected 149 marker in DICT_5X5_250
+IMG_1503.jpg - detected 149 marker in DICT_5X5_250
+IMG_1504.jpg - detected 149 marker in DICT_5X5_250
+IMG_1505.jpg - detected 149 marker in DICT_5X5_250
+IMG_1506.jpg - detected 149 marker in DICT_5X5_250
+IMG_1507.jpg - detected 149 marker in DICT_5X5_250
+IMG_1508.jpg - detected 149 marker in DICT_5X5_250
+IMG_1509.jpg - detected 149 marker in DICT_5X5_250
+IMG_1510.jpg - detected 149 marker in DICT_5X5_250
+IMG_1511.jpg - detected 157 marker in DICT_6X6_250
+IMG_1512.jpg - detected 157 marker in DICT_6X6_250
+IMG_1513.jpg - detected 157 marker in DICT_6X6_250
+IMG_1514.jpg - detected 157 marker in DICT_6X6_250
+IMG_1515.jpg - detected 157 marker in DICT_6X6_250
+IMG_1516.jpg - detected 157 marker in DICT_6X6_250
+IMG_1517.jpg - detected 157 marker in DICT_6X6_250
+IMG_1518.jpg - detected 157 marker in DICT_6X6_250
+IMG_1519.jpg - detected 157 marker in DICT_6X6_250
+IMG_1520.jpg - detected 157 marker in DICT_6X6_250
+IMG_1521.jpg - detected 157 marker in DICT_6X6_250
+IMG_1522.jpg - detected 157 marker in DICT_6X6_250
+IMG_1523.jpg - detected 157 marker in DICT_6X6_250
+IMG_1524.jpg - detected 123 marker in DICT_6X6_250
+IMG_1525.jpg - detected 123 marker in DICT_6X6_250
+IMG_1526.jpg - detected 123 marker in DICT_6X6_250
+IMG_1527.jpg - detected 123 marker in DICT_6X6_250
+IMG_1528.jpg - detected 123 marker in DICT_6X6_250
+IMG_1529.jpg - detected 123 marker in DICT_6X6_250
+IMG_1530.jpg - detected 123 marker in DICT_6X6_250
+IMG_1531.jpg - detected 123 marker in DICT_6X6_250
+IMG_1532.jpg - detected 10 marker in DICT_7X7_250
+IMG_1533.jpg - detected 10 marker in DICT_7X7_250
+IMG_1534.jpg - detected 10 marker in DICT_7X7_250
+IMG_1535.jpg - detected 10 marker in DICT_7X7_250
+IMG_1536.jpg - detected 10 marker in DICT_7X7_250
+IMG_1537.jpg - detected 10 marker in DICT_7X7_250
+IMG_1538.jpg - detected 10 marker in DICT_7X7_250
+IMG_1539.jpg - detected 10 marker in DICT_7X7_250
+IMG_1540.jpg - detected 10 marker in DICT_7X7_250
+IMG_1541.jpg - detected 10 marker in DICT_7X7_250
+IMG_1542.jpg - detected 190 marker in DICT_7X7_250
+IMG_1543.jpg - detected 190 marker in DICT_7X7_250
+IMG_1544.jpg - detected 190 marker in DICT_7X7_250
+IMG_1545.jpg - detected 190 marker in DICT_7X7_250
+IMG_1546.jpg - detected 190 marker in DICT_7X7_250
+IMG_1547.jpg - detected 190 marker in DICT_7X7_250
+IMG_1548.jpg - detected 190 marker in DICT_7X7_250
+IMG_1549.jpg - detected 190 marker in DICT_7X7_250
+IMG_1550.jpg - detected 65 marker in DICT_7X7_250
+IMG_1551.jpg - detected 65 marker in DICT_7X7_250
+IMG_1552.jpg - detected 65 marker in DICT_7X7_250
+IMG_1553.jpg - detected 65 marker in DICT_7X7_250
+IMG_1554.jpg - detected 65 marker in DICT_7X7_250
+IMG_1555.jpg - detected 65 marker in DICT_7X7_250
+IMG_1556.jpg - detected 65 marker in DICT_7X7_250
+IMG_1557.jpg - detected 65 marker in DICT_7X7_250
+IMG_1558.jpg - detected 65 marker in DICT_7X7_250
+IMG_1559.jpg - detected 65 marker in DICT_7X7_250
+IMG_1560.jpg - detected 65 marker in DICT_7X7_250
+IMG_1561.jpg - detected 65 marker in DICT_7X7_250
+IMG_1562.jpg - detected 65 marker in DICT_7X7_250
+IMG_1563.jpg - detected 232 marker in DICT_6X6_250
+IMG_1564.jpg - detected 232 marker in DICT_6X6_250
+IMG_1565.jpg - detected 232 marker in DICT_6X6_250
+IMG_1566.jpg - detected 232 marker in DICT_6X6_250
+IMG_1567.jpg - detected 232 marker in DICT_6X6_250
+IMG_1568.jpg - detected 232 marker in DICT_6X6_250
+IMG_1569.jpg - detected 232 marker in DICT_6X6_250
+IMG_1570.jpg - detected 232 marker in DICT_6X6_250
+IMG_1571.jpg - detected 232 marker in DICT_6X6_250
+IMG_1572.jpg - detected 232 marker in DICT_6X6_250
+IMG_1573.jpg - detected 97 marker in DICT_6X6_250
+IMG_1574.jpg - detected 97 marker in DICT_6X6_250
+IMG_1575.jpg - detected 97 marker in DICT_6X6_250
+IMG_1576.jpg - detected 97 marker in DICT_6X6_250
+IMG_1577.jpg - detected 97 marker in DICT_6X6_250
+IMG_1578.jpg - detected 97 marker in DICT_6X6_250
+IMG_1579.jpg - detected 97 marker in DICT_6X6_250
+IMG_1580.jpg - detected 97 marker in DICT_6X6_250
+IMG_1581.jpg - detected 97 marker in DICT_6X6_250
+IMG_1582.jpg - detected 97 marker in DICT_6X6_250
+IMG_1583.jpg - detected 97 marker in DICT_6X6_250
+IMG_1584.jpg - detected 134 marker in DICT_4X4_250
+IMG_1585.jpg - detected 134 marker in DICT_4X4_250
+IMG_1586.jpg - detected 134 marker in DICT_4X4_250
+IMG_1587.jpg - detected 134 marker in DICT_4X4_250
+IMG_1588.jpg - detected 134 marker in DICT_4X4_250
+IMG_1589.jpg - detected 134 marker in DICT_4X4_250
+IMG_1590.jpg - detected 134 marker in DICT_4X4_250
+IMG_1591.jpg - detected 134 marker in DICT_4X4_250
+IMG_1592.jpg - detected 134 marker in DICT_4X4_250
+IMG_1593.jpg - detected 134 marker in DICT_4X4_250
+IMG_1594.jpg - detected 134 marker in DICT_4X4_250
+IMG_1595.jpg - detected 154 marker in DICT_7X7_250
+IMG_1596.jpg - detected 154 marker in DICT_7X7_250
+IMG_1597.jpg - detected 154 marker in DICT_7X7_250
+IMG_1598.jpg - detected 154 marker in DICT_7X7_250
+IMG_1599.jpg - detected 154 marker in DICT_7X7_250
+IMG_1600.jpg - detected 154 marker in DICT_7X7_250
+IMG_1601.jpg - detected 154 marker in DICT_7X7_250
+IMG_1602.jpg - detected 154 marker in DICT_7X7_250
+IMG_1603.jpg - detected 154 marker in DICT_7X7_250
+IMG_1604.jpg - detected 154 marker in DICT_7X7_250
+IMG_1605.jpg - detected 154 marker in DICT_7X7_250
+IMG_1606.jpg - detected 154 marker in DICT_7X7_250
+IMG_1607.jpg - detected 154 marker in DICT_7X7_250
+IMG_1608.jpg - not detected
+IMG_1609.jpg - not detected
+IMG_1610.jpg - not detected
+IMG_1611.jpg - not detected
+IMG_1612.jpg - not detected
+IMG_1613.jpg - detected 149 marker in DICT_5X5_250
+IMG_1614.jpg - detected 149 marker in DICT_5X5_250
+IMG_1615.jpg - detected 149 marker in DICT_5X5_250
+IMG_1616.jpg - detected 149 marker in DICT_5X5_250
+IMG_1617.jpg - detected 149 marker in DICT_5X5_250
+IMG_1618.jpg - not detected
+IMG_1619.jpg - detected 149 marker in DICT_5X5_250
+IMG_1620.jpg - detected 149 marker in DICT_5X5_250
+IMG_1621.jpg - detected 149 marker in DICT_5X5_250
+IMG_1622.jpg - detected 149 marker in DICT_5X5_250
+IMG_1623.jpg - detected 149 marker in DICT_5X5_250
+IMG_1624.jpg - detected 149 marker in DICT_5X5_250
+IMG_1625.jpg - detected 149 marker in DICT_5X5_250
+IMG_1626.jpg - detected 149 marker in DICT_5X5_250
+IMG_1627.jpg - detected 149 marker in DICT_5X5_250
+IMG_1628.jpg - detected 149 marker in DICT_5X5_250
+IMG_1629.jpg - detected 149 marker in DICT_5X5_250
+IMG_1630.jpg - detected 149 marker in DICT_5X5_250
+IMG_1631.jpg - detected 149 marker in DICT_5X5_250
+IMG_1632.jpg - detected 149 marker in DICT_5X5_250
+IMG_1633.jpg - detected 149 marker in DICT_5X5_250
+IMG_1634.jpg - detected 149 marker in DICT_5X5_250
+IMG_1635.jpg - detected 149 marker in DICT_5X5_250
+IMG_1636.jpg - detected 149 marker in DICT_5X5_250
+IMG_1637.jpg - detected 149 marker in DICT_5X5_250
+IMG_1638.jpg - detected 149 marker in DICT_5X5_250
+IMG_1639.jpg - detected 149 marker in DICT_5X5_250
+IMG_1640.jpg - detected 149 marker in DICT_5X5_250
+IMG_1641.jpg - detected 149 marker in DICT_5X5_250
+IMG_1642.jpg - detected 149 marker in DICT_5X5_250
+IMG_1643.jpg - detected 149 marker in DICT_5X5_250
+IMG_1644.jpg - detected 149 marker in DICT_5X5_250
+IMG_1645.jpg - not detected
+IMG_1646.jpg - not detected
+IMG_1647.jpg - not detected
+IMG_1648.jpg - not detected
+IMG_1649.jpg - not detected
+IMG_1650.jpg - not detected
+IMG_1651.jpg - not detected
+IMG_1652.jpg - not detected
+IMG_1653.jpg - detected 149 marker in DICT_5X5_250
+IMG_1654.jpg - detected 149 marker in DICT_5X5_250
+IMG_1655.jpg - detected 149 marker in DICT_5X5_250
+IMG_1656.jpg - detected 149 marker in DICT_5X5_250
+IMG_1657.jpg - detected 149 marker in DICT_5X5_250
+IMG_1658.jpg - detected 149 marker in DICT_5X5_250
+IMG_1659.jpg - detected 149 marker in DICT_5X5_250
+IMG_1660.jpg - detected 149 marker in DICT_5X5_250
+IMG_1661.jpg - detected 149 marker in DICT_5X5_250
+IMG_1662.jpg - detected 149 marker in DICT_5X5_250
+IMG_1663.jpg - not detected
+IMG_1664.jpg - not detected
+IMG_1665.jpg - detected 149 marker in DICT_5X5_250
+IMG_1666.jpg - detected 149 marker in DICT_5X5_250
+IMG_1667.jpg - detected 149 marker in DICT_5X5_250
+IMG_1668.jpg - not detected
+IMG_1669.jpg - detected 149 marker in DICT_5X5_250
+IMG_1670.jpg - detected 149 marker in DICT_5X5_250
+IMG_1671.jpg - detected 149 marker in DICT_5X5_250
+IMG_1672.jpg - detected 149 marker in DICT_5X5_250
+IMG_1673.jpg - detected 149 marker in DICT_5X5_250
+IMG_1674.jpg - detected 149 marker in DICT_5X5_250
+IMG_1675.jpg - detected 149 marker in DICT_5X5_250
+IMG_1676.jpg - detected 149 marker in DICT_5X5_250
+IMG_1677.jpg - detected 149 marker in DICT_5X5_250
+IMG_1678.jpg - detected 149 marker in DICT_5X5_250
+IMG_1679.jpg - detected 149 marker in DICT_5X5_250
+IMG_1680.jpg - not detected
+IMG_1681.jpg - detected 149 marker in DICT_5X5_250
+IMG_1682.jpg - not detected
+IMG_1683.jpg - detected 149 marker in DICT_5X5_250
+IMG_1684.jpg - detected 149 marker in DICT_5X5_250
+IMG_1685.jpg - detected 149 marker in DICT_5X5_250
+IMG_1686.jpg - detected 149 marker in DICT_5X5_250
+IMG_1687.jpg - detected 149 marker in DICT_5X5_250
+IMG_1688.jpg - detected 149 marker in DICT_5X5_250
+IMG_1689.jpg - detected 149 marker in DICT_5X5_250
+IMG_1690.jpg - detected 149 marker in DICT_5X5_250
+IMG_1691.jpg - detected 149 marker in DICT_5X5_250
+IMG_1692.jpg - detected 149 marker in DICT_5X5_250
+IMG_1693.jpg - detected 149 marker in DICT_5X5_250
+IMG_1694.jpg - detected 149 marker in DICT_5X5_250
+IMG_1695.jpg - detected 149 marker in DICT_5X5_250
+IMG_1696.jpg - detected 149 marker in DICT_5X5_250
+IMG_1697.jpg - detected 149 marker in DICT_5X5_250
+IMG_1698.jpg - detected 149 marker in DICT_5X5_250
+IMG_1699.jpg - detected 149 marker in DICT_5X5_250
+IMG_1700.jpg - detected 149 marker in DICT_5X5_250
+IMG_1701.jpg - detected 149 marker in DICT_5X5_250
+IMG_1702.jpg - detected 149 marker in DICT_5X5_250
+IMG_1703.jpg - detected 149 marker in DICT_5X5_250
+IMG_1704.jpg - detected 149 marker in DICT_5X5_250
+IMG_1705.jpg - detected 149 marker in DICT_5X5_250
+IMG_1706.jpg - detected 149 marker in DICT_5X5_250
+IMG_1707.jpg - detected 149 marker in DICT_5X5_250
+IMG_1708.jpg - detected 149 marker in DICT_5X5_250
+IMG_1709.jpg - detected 149 marker in DICT_5X5_250
+IMG_1710.jpg - detected 149 marker in DICT_5X5_250
+IMG_1711.jpg - detected 149 marker in DICT_5X5_250
+IMG_1712.jpg - not detected
+IMG_1713.jpg - not detected
+IMG_1714.jpg - not detected
+IMG_1715.jpg - not detected
+IMG_1716.jpg - detected 149 marker in DICT_5X5_250
+IMG_1717.jpg - detected 149 marker in DICT_5X5_250
+IMG_1718.jpg - detected 149 marker in DICT_5X5_250
+IMG_1719.jpg - detected 149 marker in DICT_5X5_250
+IMG_1720.jpg - detected 149 marker in DICT_5X5_250
+IMG_1721.jpg - detected 149 marker in DICT_5X5_250
+IMG_1722.jpg - detected 149 marker in DICT_5X5_250
+IMG_1723.jpg - detected 149 marker in DICT_5X5_250
+IMG_1724.jpg - detected 149 marker in DICT_5X5_250
+IMG_1725.jpg - not detected
+IMG_1726.jpg - detected 149 marker in DICT_5X5_250
+IMG_1727.jpg - not detected
+IMG_1728.jpg - not detected
+IMG_1729.jpg - not detected
+IMG_1730.jpg - not detected
+IMG_1731.jpg - not detected
+IMG_1732.jpg - not detected
+IMG_1733.jpg - not detected
+IMG_1734.jpg - detected 149 marker in DICT_5X5_250
+IMG_1735.jpg - detected 149 marker in DICT_5X5_250
+IMG_1736.jpg - detected 149 marker in DICT_5X5_250
+IMG_1737.jpg - detected 149 marker in DICT_5X5_250
+IMG_1738.jpg - detected 149 marker in DICT_5X5_250
+IMG_1739.jpg - detected 149 marker in DICT_5X5_250
+IMG_1740.jpg - detected 149 marker in DICT_5X5_250
+IMG_1741.jpg - detected 149 marker in DICT_5X5_250
+IMG_1742.jpg - detected 149 marker in DICT_5X5_250
+IMG_1743.jpg - detected 149 marker in DICT_5X5_250
+IMG_1744.jpg - detected 149 marker in DICT_5X5_250
+IMG_1745.jpg - not detected
+IMG_1746.jpg - detected 149 marker in DICT_5X5_250
+IMG_1747.jpg - detected 149 marker in DICT_5X5_250
+IMG_1748.jpg - detected 149 marker in DICT_5X5_250
+IMG_1749.jpg - detected 149 marker in DICT_5X5_250
+IMG_1750.jpg - detected 149 marker in DICT_5X5_250
+IMG_1751.jpg - detected 149 marker in DICT_5X5_250
+IMG_1752.jpg - detected 149 marker in DICT_5X5_250
+IMG_1753.jpg - not detected
+IMG_1754.jpg - detected 149 marker in DICT_5X5_250
+IMG_1755.jpg - detected 149 marker in DICT_5X5_250
+IMG_1756.jpg - detected 149 marker in DICT_5X5_250
+IMG_1757.jpg - detected 149 marker in DICT_5X5_250
+IMG_1758.jpg - detected 149 marker in DICT_5X5_250
+IMG_1759.jpg - detected 149 marker in DICT_5X5_250
+IMG_1760.jpg - detected 149 marker in DICT_5X5_250
+IMG_1761.jpg - not detected
+IMG_1762.jpg - not detected
+IMG_1763.jpg - detected 149 marker in DICT_5X5_250
+IMG_1764.jpg - detected 149 marker in DICT_5X5_250
+IMG_1765.jpg - detected 149 marker in DICT_5X5_250
+IMG_1766.jpg - detected 149 marker in DICT_5X5_250
+IMG_1767.jpg - detected 149 marker in DICT_5X5_250
+IMG_1768.jpg - detected 149 marker in DICT_5X5_250
+IMG_1769.jpg - detected 149 marker in DICT_5X5_250
+IMG_1770.jpg - not detected
+IMG_1771.jpg - detected 149 marker in DICT_5X5_250
+IMG_1772.jpg - detected 149 marker in DICT_5X5_250
+IMG_1773.jpg - detected 149 marker in DICT_5X5_250
+IMG_1774.jpg - not detected
+IMG_1775.jpg - detected 149 marker in DICT_5X5_250
+IMG_1776.jpg - detected 149 marker in DICT_5X5_250
+IMG_1777.jpg - detected 149 marker in DICT_5X5_250
+IMG_1778.jpg - detected 149 marker in DICT_5X5_250
+IMG_1779.jpg - detected 149 marker in DICT_5X5_250
+IMG_1780.jpg - detected 149 marker in DICT_5X5_250
+IMG_1781.jpg - detected 149 marker in DICT_5X5_250
+IMG_1782.jpg - detected 149 marker in DICT_5X5_250
+IMG_1783.jpg - not detected
+IMG_1784.jpg - not detected
+IMG_1785.jpg - detected 149 marker in DICT_5X5_250
+IMG_1786.jpg - detected 149 marker in DICT_5X5_250
+IMG_1787.jpg - detected 149 marker in DICT_5X5_250
+IMG_1788.jpg - detected 149 marker in DICT_5X5_250
+IMG_1789.jpg - detected 149 marker in DICT_5X5_250
+IMG_1790.jpg - detected 149 marker in DICT_5X5_250
+IMG_1791.jpg - detected 149 marker in DICT_5X5_250
+IMG_1792.jpg - detected 149 marker in DICT_5X5_250
+IMG_1793.jpg - not detected
+IMG_1794.jpg - not detected
+IMG_1795.jpg - not detected
+IMG_1796.jpg - not detected
+IMG_1797.jpg - detected 149 marker in DICT_5X5_250
+IMG_1798.jpg - not detected
+IMG_1799.jpg - not detected
+IMG_1800.jpg - not detected
+IMG_1801.jpg - detected 149 marker in DICT_5X5_250
+IMG_1802.jpg - detected 149 marker in DICT_5X5_250
+IMG_1803.jpg - detected 149 marker in DICT_5X5_250
+IMG_1804.jpg - not detected
+IMG_1805.jpg - not detected
+IMG_1806.jpg - not detected
+IMG_1807.jpg - detected 149 marker in DICT_5X5_250
+IMG_1808.jpg - detected 149 marker in DICT_5X5_250
+IMG_1809.jpg - detected 149 marker in DICT_5X5_250
+IMG_1810.jpg - detected 149 marker in DICT_5X5_250
+IMG_1811.jpg - detected 149 marker in DICT_5X5_250
+IMG_1812.jpg - detected 149 marker in DICT_5X5_250
+IMG_1813.jpg - detected 149 marker in DICT_5X5_250
+IMG_1814.jpg - detected 149 marker in DICT_5X5_250
+IMG_1815.jpg - detected 149 marker in DICT_5X5_250
+IMG_1816.jpg - detected 149 marker in DICT_5X5_250
+IMG_1817.jpg - detected 149 marker in DICT_5X5_250
+IMG_1818.jpg - detected 149 marker in DICT_5X5_250
+IMG_1819.jpg - detected 149 marker in DICT_5X5_250
+IMG_1820.jpg - detected 149 marker in DICT_5X5_250
+IMG_1821.jpg - detected 149 marker in DICT_5X5_250
+IMG_1822.jpg - detected 149 marker in DICT_5X5_250
+IMG_1823.jpg - detected 149 marker in DICT_5X5_250
+IMG_1824.jpg - detected 149 marker in DICT_5X5_250
+IMG_1825.jpg - detected 149 marker in DICT_5X5_250
+IMG_1826.jpg - detected 149 marker in DICT_5X5_250
+IMG_1827.jpg - detected 149 marker in DICT_5X5_250
+IMG_1828.jpg - detected 149 marker in DICT_5X5_250
+IMG_1829.jpg - detected 149 marker in DICT_5X5_250
+IMG_1830.jpg - detected 149 marker in DICT_5X5_250
+IMG_1831.jpg - detected 149 marker in DICT_5X5_250
+IMG_1832.jpg - detected 149 marker in DICT_5X5_250
+IMG_1833.jpg - detected 149 marker in DICT_5X5_250
+IMG_1834.jpg - detected 149 marker in DICT_5X5_250
+IMG_1835.jpg - detected 149 marker in DICT_5X5_250
+IMG_1836.jpg - detected 149 marker in DICT_5X5_250
+IMG_1837.jpg - detected 149 marker in DICT_5X5_250
+IMG_1838.jpg - detected 149 marker in DICT_5X5_250
+IMG_1839.jpg - detected 149 marker in DICT_5X5_250
+IMG_1840.jpg - detected 149 marker in DICT_5X5_250
+IMG_1841.jpg - detected 149 marker in DICT_5X5_250
+IMG_1842.jpg - detected 149 marker in DICT_5X5_250
+IMG_1843.jpg - detected 149 marker in DICT_5X5_250
+IMG_1844.jpg - detected 149 marker in DICT_5X5_250
+IMG_1845.jpg - detected 149 marker in DICT_5X5_250
+IMG_1846.jpg - detected 149 marker in DICT_5X5_250
+IMG_1847.jpg - detected 149 marker in DICT_5X5_250
+IMG_1848.jpg - detected 149 marker in DICT_5X5_250
+IMG_1849.jpg - detected 149 marker in DICT_5X5_250
+IMG_1850.jpg - detected 149 marker in DICT_5X5_250
+IMG_1851.jpg - detected 149 marker in DICT_5X5_250
+IMG_1852.jpg - detected 149 marker in DICT_5X5_250
+IMG_1853.jpg - detected 149 marker in DICT_5X5_250
+IMG_1854.jpg - detected 149 marker in DICT_5X5_250
+IMG_1855.jpg - detected 149 marker in DICT_5X5_250
+IMG_1856.jpg - not detected
+IMG_1857.jpg - detected 149 marker in DICT_5X5_250
+IMG_1858.jpg - detected 149 marker in DICT_5X5_250
+IMG_1859.jpg - detected 149 marker in DICT_5X5_250
+IMG_1860.jpg - detected 149 marker in DICT_5X5_250
+IMG_1861.jpg - detected 149 marker in DICT_5X5_250
+IMG_1862.jpg - detected 149 marker in DICT_5X5_250
+IMG_1863.jpg - detected 149 marker in DICT_5X5_250
+IMG_1864.jpg - detected 149 marker in DICT_5X5_250
+IMG_1865.jpg - detected 149 marker in DICT_5X5_250
+IMG_1866.jpg - detected 149 marker in DICT_5X5_250
+IMG_1867.jpg - detected 149 marker in DICT_5X5_250
+IMG_1868.jpg - not detected
+IMG_1869.jpg - not detected
+IMG_1870.jpg - not detected
+IMG_1871.jpg - not detected
+IMG_1872.jpg - not detected
+IMG_1873.jpg - not detected
+IMG_1874.jpg - not detected
+IMG_1875.jpg - detected 149 marker in DICT_5X5_250
+IMG_1876.jpg - detected 149 marker in DICT_5X5_250
+IMG_1877.jpg - detected 149 marker in DICT_5X5_250
+IMG_1878.jpg - detected 149 marker in DICT_5X5_250
+IMG_1879.jpg - detected 149 marker in DICT_5X5_250
+IMG_1880.jpg - detected 149 marker in DICT_5X5_250
+IMG_1881.jpg - detected 149 marker in DICT_5X5_250
+IMG_1882.jpg - detected 149 marker in DICT_5X5_250
+IMG_1883.jpg - detected 149 marker in DICT_5X5_250
+IMG_1884.jpg - detected 149 marker in DICT_5X5_250
+IMG_1885.jpg - not detected
+IMG_1886.jpg - not detected
+IMG_1887.jpg - not detected
+IMG_1888.jpg - detected 149 marker in DICT_5X5_250
+IMG_1889.jpg - detected 149 marker in DICT_5X5_250
+IMG_1890.jpg - detected 149 marker in DICT_5X5_250
+IMG_1891.jpg - detected 149 marker in DICT_5X5_250
+IMG_1892.jpg - detected 149 marker in DICT_5X5_250
+IMG_1893.jpg - detected 149 marker in DICT_5X5_250
+IMG_1894.jpg - detected 149 marker in DICT_5X5_250
+IMG_1895.jpg - detected 149 marker in DICT_5X5_250
+IMG_1896.jpg - detected 149 marker in DICT_5X5_250
+IMG_1897.jpg - detected 149 marker in DICT_5X5_250
+IMG_1898.jpg - detected 149 marker in DICT_5X5_250
+IMG_1899.jpg - not detected
+IMG_1900.jpg - not detected
+IMG_1901.jpg - not detected
+IMG_1902.jpg - detected 149 marker in DICT_5X5_250
+IMG_1903.jpg - detected 149 marker in DICT_5X5_250
+IMG_1904.jpg - detected 149 marker in DICT_5X5_250
+IMG_1905.jpg - detected 149 marker in DICT_5X5_250
+IMG_1906.jpg - detected 149 marker in DICT_5X5_250
+IMG_1907.jpg - detected 149 marker in DICT_5X5_250
+IMG_1908.jpg - detected 149 marker in DICT_5X5_250
+IMG_1909.jpg - detected 149 marker in DICT_5X5_250
+IMG_1910.jpg - detected 149 marker in DICT_5X5_250
+IMG_1911.jpg - detected 149 marker in DICT_5X5_250
+IMG_1912.jpg - detected 149 marker in DICT_5X5_250
+IMG_1913.jpg - detected 149 marker in DICT_5X5_250
+IMG_1914.jpg - detected 149 marker in DICT_5X5_250
+IMG_1915.jpg - detected 149 marker in DICT_5X5_250
+IMG_1916.jpg - detected 149 marker in DICT_5X5_250
+IMG_1917.jpg - detected 149 marker in DICT_5X5_250
+IMG_1918.jpg - detected 149 marker in DICT_5X5_250
+IMG_1919.jpg - detected 149 marker in DICT_5X5_250
+IMG_1920.jpg - detected 149 marker in DICT_5X5_250
+IMG_1921.jpg - detected 149 marker in DICT_5X5_250
+IMG_1922.jpg - detected 149 marker in DICT_5X5_250
+IMG_1923.jpg - detected 149 marker in DICT_5X5_250
+IMG_1924.jpg - detected 149 marker in DICT_5X5_250
+IMG_1925.jpg - detected 149 marker in DICT_5X5_250
+IMG_1926.jpg - detected 149 marker in DICT_5X5_250
+IMG_1927.jpg - detected 149 marker in DICT_5X5_250
+IMG_1928.jpg - detected 149 marker in DICT_5X5_250
+IMG_1929.jpg - detected 149 marker in DICT_5X5_250
+IMG_1930.jpg - detected 149 marker in DICT_5X5_250
+IMG_1931.jpg - detected 149 marker in DICT_5X5_250
+IMG_1932.jpg - detected 149 marker in DICT_5X5_250
+IMG_1933.jpg - detected 149 marker in DICT_5X5_250
+IMG_1934.jpg - detected 149 marker in DICT_5X5_250
+IMG_1935.jpg - detected 190 marker in DICT_4X4_250
+IMG_1936.jpg - detected 149 marker in DICT_5X5_250
+IMG_1937.jpg - detected 149 marker in DICT_5X5_250
+IMG_1938.jpg - detected 149 marker in DICT_5X5_250
+IMG_1939.jpg - detected 149 marker in DICT_5X5_250
+IMG_1940.jpg - detected 149 marker in DICT_5X5_250
+IMG_1941.jpg - detected 149 marker in DICT_5X5_250
+IMG_1942.jpg - detected 149 marker in DICT_5X5_250
+IMG_1943.jpg - not detected
+IMG_1944.jpg - detected 149 marker in DICT_5X5_250
+IMG_1945.jpg - detected 149 marker in DICT_5X5_250
+IMG_1946.jpg - detected 149 marker in DICT_5X5_250
+IMG_1947.jpg - not detected
+IMG_1948.jpg - not detected
+IMG_1949.jpg - detected 149 marker in DICT_5X5_250
+IMG_1950.jpg - detected 149 marker in DICT_5X5_250
+IMG_1951.jpg - detected 149 marker in DICT_5X5_250
+IMG_1952.jpg - detected 149 marker in DICT_5X5_250
+IMG_1953.jpg - detected 149 marker in DICT_5X5_250
+IMG_1954.jpg - detected 149 marker in DICT_5X5_250
+IMG_1955.jpg - detected 149 marker in DICT_5X5_250
+IMG_1956.jpg - detected 149 marker in DICT_5X5_250
+IMG_1957.jpg - detected 149 marker in DICT_5X5_250
+IMG_1958.jpg - not detected
+IMG_1959.jpg - detected 149 marker in DICT_5X5_250
+IMG_1960.jpg - detected 149 marker in DICT_5X5_250
+IMG_1961.jpg - detected 149 marker in DICT_5X5_250
+IMG_1962.jpg - detected 149 marker in DICT_5X5_250
+IMG_1963.jpg - detected 149 marker in DICT_5X5_250
+IMG_1964.jpg - detected 149 marker in DICT_5X5_250
+IMG_1965.jpg - detected 149 marker in DICT_5X5_250
+IMG_1966.jpg - detected 149 marker in DICT_5X5_250
+IMG_1967.jpg - detected 149 marker in DICT_5X5_250
+IMG_1968.jpg - detected 149 marker in DICT_5X5_250
+IMG_1969.jpg - not detected
+IMG_1970.jpg - detected 149 marker in DICT_5X5_250
+IMG_1971.jpg - detected 149 marker in DICT_5X5_250
+IMG_1972.jpg - detected 149 marker in DICT_5X5_250
+IMG_1973.jpg - detected 149 marker in DICT_5X5_250
+IMG_1974.jpg - detected 149 marker in DICT_5X5_250
+IMG_1975.jpg - detected 149 marker in DICT_5X5_250
+IMG_1976.jpg - detected 149 marker in DICT_5X5_250
+IMG_1977.jpg - not detected
+IMG_1978.jpg - not detected
+IMG_1979.jpg - not detected
+IMG_1980.jpg - detected 149 marker in DICT_5X5_250
+IMG_1981.jpg - detected 149 marker in DICT_5X5_250
+IMG_1982.jpg - detected 149 marker in DICT_5X5_250
+IMG_1983.jpg - detected 149 marker in DICT_5X5_250
+IMG_1984.jpg - detected 149 marker in DICT_5X5_250
+IMG_1985.jpg - detected 149 marker in DICT_5X5_250
+IMG_1986.jpg - not detected
+IMG_1987.jpg - detected 149 marker in DICT_5X5_250
+IMG_1988.jpg - detected 149 marker in DICT_5X5_250
+IMG_1989.jpg - detected 149 marker in DICT_5X5_250
+IMG_1990.jpg - detected 149 marker in DICT_5X5_250
+IMG_1991.jpg - not detected
+IMG_1992.jpg - not detected
+IMG_1993.jpg - detected 149 marker in DICT_5X5_250
+IMG_1994.jpg - detected 149 marker in DICT_5X5_250
+IMG_1995.jpg - detected 149 marker in DICT_5X5_250
+IMG_1996.jpg - detected 149 marker in DICT_5X5_250
+IMG_1997.jpg - detected 149 marker in DICT_5X5_250
+IMG_1998.jpg - detected 149 marker in DICT_5X5_250
+IMG_1999.jpg - not detected
+IMG_2000.jpg - not detected
+IMG_2001.jpg - detected 149 marker in DICT_5X5_250
+IMG_2002.jpg - detected 149 marker in DICT_5X5_250
+IMG_2003.jpg - detected 149 marker in DICT_5X5_250
+IMG_2004.jpg - detected 149 marker in DICT_5X5_250
+IMG_2005.jpg - not detected
+IMG_2006.jpg - not detected
+IMG_2007.jpg - not detected
+IMG_2008.jpg - detected 149 marker in DICT_5X5_250
+IMG_2009.jpg - detected 149 marker in DICT_5X5_250
+IMG_2010.jpg - detected 149 marker in DICT_5X5_250
+IMG_2011.jpg - detected 149 marker in DICT_5X5_250
+IMG_2012.jpg - not detected
+IMG_2013.jpg - not detected
+IMG_2014.jpg - not detected
+IMG_2015.jpg - detected 149 marker in DICT_5X5_250
+IMG_2016.jpg - detected 149 marker in DICT_5X5_250
+IMG_2017.jpg - detected 149 marker in DICT_5X5_250
+IMG_2018.jpg - detected 149 marker in DICT_5X5_250
+IMG_2019.jpg - not detected
+IMG_2020.jpg - detected 149 marker in DICT_5X5_250
+IMG_2021.jpg - not detected
+IMG_2022.jpg - not detected
+IMG_2023.jpg - not detected
+IMG_2024.jpg - detected 149 marker in DICT_5X5_250
+IMG_2025.jpg - not detected
+IMG_2026.jpg - detected 149 marker in DICT_5X5_250
+IMG_2027.jpg - detected 149 marker in DICT_5X5_250
+IMG_2028.jpg - detected 149 marker in DICT_5X5_250
+IMG_2029.jpg - detected 149 marker in DICT_5X5_250
+IMG_2030.jpg - detected 149 marker in DICT_5X5_250
+IMG_2031.jpg - detected 149 marker in DICT_5X5_250
+IMG_2032.jpg - detected 149 marker in DICT_5X5_250
+IMG_2033.jpg - detected 149 marker in DICT_5X5_250
+IMG_2034.jpg - detected 149 marker in DICT_5X5_250
+IMG_2035.jpg - not detected
+IMG_2036.jpg - not detected
+IMG_2037.jpg - detected 149 marker in DICT_5X5_250
+IMG_2038.jpg - detected 149 marker in DICT_5X5_250
+IMG_2039.jpg - detected 149 marker in DICT_5X5_250
+IMG_2040.jpg - detected 149 marker in DICT_5X5_250
+IMG_2041.jpg - detected 149 marker in DICT_5X5_250
+IMG_2042.jpg - not detected
+IMG_2043.jpg - not detected
+IMG_2044.jpg - not detected
+IMG_2045.jpg - detected 149 marker in DICT_5X5_250
+IMG_2046.jpg - detected 149 marker in DICT_5X5_250
+IMG_2047.jpg - detected 149 marker in DICT_5X5_250
+IMG_2048.jpg - detected 149 marker in DICT_5X5_250
+IMG_2049.jpg - not detected
+IMG_2050.jpg - not detected
+IMG_2051.jpg - detected 149 marker in DICT_5X5_250
+IMG_2052.jpg - detected 149 marker in DICT_5X5_250
+IMG_2053.jpg - detected 149 marker in DICT_5X5_250
+IMG_2054.jpg - not detected
+IMG_2055.jpg - not detected
+IMG_2056.jpg - detected 149 marker in DICT_5X5_250
+IMG_2057.jpg - detected 149 marker in DICT_5X5_250
+IMG_2058.jpg - detected 149 marker in DICT_5X5_250
+IMG_2059.jpg - not detected
+IMG_2060.jpg - not detected
+IMG_2061.jpg - detected 149 marker in DICT_5X5_250
+IMG_2062.jpg - detected 149 marker in DICT_5X5_250
+IMG_2063.jpg - detected 149 marker in DICT_5X5_250
+IMG_2064.jpg - detected 149 marker in DICT_5X5_250
+IMG_2065.jpg - not detected
+IMG_2066.jpg - not detected
+IMG_2067.jpg - not detected
+IMG_2068.jpg - not detected
+IMG_2069.jpg - detected 149 marker in DICT_5X5_250
+IMG_2070.jpg - detected 149 marker in DICT_5X5_250
+IMG_2071.jpg - detected 149 marker in DICT_5X5_250
+IMG_2072.jpg - not detected
+IMG_2073.jpg - not detected
+IMG_2074.jpg - not detected
+IMG_2075.jpg - not detected
+IMG_2076.jpg - detected 149 marker in DICT_5X5_250
+IMG_2077.jpg - detected 149 marker in DICT_5X5_250
+IMG_2078.jpg - detected 149 marker in DICT_5X5_250
+IMG_2079.jpg - detected 149 marker in DICT_5X5_250
+IMG_2080.jpg - not detected
+IMG_2081.jpg - not detected
+IMG_2082.jpg - not detected
+IMG_2083.jpg - detected 149 marker in DICT_5X5_250
+IMG_2084.jpg - detected 149 marker in DICT_5X5_250
+IMG_2085.jpg - not detected
+IMG_2086.jpg - detected 149 marker in DICT_5X5_250
+IMG_2087.jpg - not detected
+IMG_2088.jpg - not detected
+IMG_2089.jpg - not detected
+IMG_2090.jpg - detected 149 marker in DICT_5X5_250
+IMG_2091.jpg - detected 149 marker in DICT_5X5_250
+IMG_2092.jpg - detected 149 marker in DICT_5X5_250
+IMG_2093.jpg - not detected
+IMG_2094.jpg - not detected
+IMG_2095.jpg - not detected
+IMG_2096.jpg - detected 149 marker in DICT_5X5_250
+IMG_2097.jpg - detected 149 marker in DICT_5X5_250
+IMG_2098.jpg - detected 149 marker in DICT_5X5_250
+IMG_2099.jpg - not detected
+IMG_2100.jpg - not detected
+IMG_2101.jpg - not detected
+IMG_2102.jpg - not detected
+IMG_2103.jpg - not detected
+IMG_2104.jpg - not detected
+IMG_2105.jpg - detected 149 marker in DICT_5X5_250
+IMG_2106.jpg - not detected
+IMG_2107.jpg - not detected
+IMG_2108.jpg - not detected
+IMG_2109.jpg - not detected
+IMG_2110.jpg - not detected
+IMG_2111.jpg - not detected
+IMG_2112.jpg - not detected
+IMG_2113.jpg - detected 149 marker in DICT_5X5_250
+IMG_2114.jpg - detected 149 marker in DICT_5X5_250
+IMG_2115.jpg - not detected
+IMG_2116.jpg - not detected
+IMG_2117.jpg - not detected
+IMG_2118.jpg - not detected
+IMG_2119.jpg - not detected
+IMG_2120.jpg - not detected
+IMG_2121.jpg - not detected
+IMG_2122.jpg - not detected
+IMG_2123.jpg - not detected
+IMG_2124.jpg - detected 149 marker in DICT_5X5_250
+IMG_2125.jpg - not detected
+IMG_2126.jpg - not detected
+IMG_2127.jpg - not detected
+IMG_2128.jpg - not detected
+IMG_2129.jpg - not detected
+IMG_2130.jpg - not detected
+IMG_2131.jpg - detected 149 marker in DICT_5X5_250
+IMG_2132.jpg - detected 149 marker in DICT_5X5_250
+IMG_2133.jpg - not detected
+IMG_2134.jpg - not detected
+IMG_2135.jpg - not detected
+IMG_2136.jpg - not detected
+IMG_2137.jpg - detected 149 marker in DICT_5X5_250
+IMG_2138.jpg - detected 149 marker in DICT_5X5_250
+IMG_2139.jpg - not detected
+IMG_2140.jpg - not detected
+IMG_2141.jpg - not detected
+IMG_2142.jpg - not detected
+IMG_2143.jpg - not detected
+IMG_2144.jpg - not detected
+IMG_2145.jpg - not detected
+IMG_2146.jpg - not detected
+IMG_2147.jpg - not detected
+IMG_2148.jpg - not detected
+IMG_2149.jpg - not detected
+IMG_2150.jpg - not detected
+IMG_2151.jpg - not detected
+IMG_2152.jpg - not detected
+IMG_2153.jpg - not detected
+IMG_2154.jpg - not detected
+IMG_2155.jpg - not detected
+IMG_2156.jpg - not detected
+IMG_2157.jpg - not detected
+IMG_2158.jpg - not detected
+IMG_2159.jpg - not detected
+IMG_2160.jpg - not detected
+IMG_2161.jpg - not detected
+IMG_2162.jpg - not detected
+IMG_2163.jpg - detected 17 marker in DICT_4X4_250
+IMG_2164.jpg - not detected
+IMG_2165.jpg - not detected
+IMG_2166.jpg - not detected
+IMG_2167.jpg - not detected
+IMG_2168.jpg - not detected
+IMG_2169.jpg - not detected
+IMG_2170.jpg - not detected
+IMG_2171.jpg - not detected
+IMG_2172.jpg - not detected
+IMG_2173.jpg - not detected
+IMG_2174.jpg - not detected
+IMG_2175.jpg - not detected
+IMG_2176.jpg - not detected
+IMG_2177.jpg - not detected
+IMG_2178.jpg - not detected
+IMG_2179.jpg - not detected
+IMG_2180.jpg - not detected
+IMG_2181.jpg - not detected
+IMG_2182.jpg - not detected
+IMG_2183.jpg - not detected
+IMG_2184.jpg - not detected
+IMG_2185.jpg - not detected
+IMG_2186.jpg - not detected
+IMG_2187.jpg - not detected
+IMG_2188.jpg - detected 149 marker in DICT_5X5_250
+IMG_2189.jpg - detected 149 marker in DICT_5X5_250
+IMG_2190.jpg - detected 149 marker in DICT_5X5_250
+IMG_2191.jpg - not detected
+IMG_2192.jpg - detected 149 marker in DICT_5X5_250
+IMG_2193.jpg - not detected
+IMG_2194.jpg - detected 149 marker in DICT_5X5_250
+IMG_2195.jpg - detected 149 marker in DICT_5X5_250
+IMG_2196.jpg - detected 149 marker in DICT_5X5_250
+IMG_2197.jpg - detected 149 marker in DICT_5X5_250
+IMG_2198.jpg - not detected
+IMG_2199.jpg - not detected
+IMG_2200.jpg - detected 149 marker in DICT_5X5_250
+IMG_2201.jpg - detected 149 marker in DICT_5X5_250
+IMG_2202.jpg - detected 149 marker in DICT_5X5_250
+IMG_2203.jpg - detected 149 marker in DICT_5X5_250
+IMG_2204.jpg - detected 149 marker in DICT_5X5_250
+IMG_2205.jpg - detected 149 marker in DICT_5X5_250
+IMG_2206.jpg - detected 149 marker in DICT_5X5_250
+IMG_2207.jpg - detected 149 marker in DICT_5X5_250
+IMG_2208.jpg - detected 149 marker in DICT_5X5_250
+IMG_2209.jpg - not detected
+IMG_2210.jpg - detected 149 marker in DICT_5X5_250
+IMG_2211.jpg - not detected
+IMG_2212.jpg - not detected
+IMG_2213.jpg - detected 149 marker in DICT_5X5_250
+IMG_2214.jpg - detected 149 marker in DICT_5X5_250
+IMG_2215.jpg - detected 149 marker in DICT_5X5_250
+IMG_2216.jpg - detected 149 marker in DICT_5X5_250
+IMG_2217.jpg - detected 149 marker in DICT_5X5_250
+IMG_2218.jpg - detected 149 marker in DICT_5X5_250
+IMG_2219.jpg - not detected
+IMG_2220.jpg - not detected
+IMG_2221.jpg - detected 149 marker in DICT_5X5_250
+IMG_2222.jpg - detected 149 marker in DICT_5X5_250
+IMG_2223.jpg - detected 149 marker in DICT_5X5_250
+IMG_2224.jpg - not detected
+IMG_2225.jpg - detected 149 marker in DICT_5X5_250
+IMG_2226.jpg - not detected
+IMG_2227.jpg - not detected
+IMG_2228.jpg - detected 149 marker in DICT_5X5_250
+IMG_2229.jpg - detected 149 marker in DICT_5X5_250
+IMG_2230.jpg - detected 149 marker in DICT_5X5_250
+IMG_2231.jpg - detected 149 marker in DICT_5X5_250
+IMG_2232.jpg - detected 149 marker in DICT_5X5_250
+IMG_2233.jpg - detected 149 marker in DICT_5X5_250
+IMG_2234.jpg - detected 149 marker in DICT_5X5_250
+IMG_2235.jpg - detected 149 marker in DICT_5X5_250
+IMG_2236.jpg - detected 149 marker in DICT_5X5_250
+IMG_2237.jpg - detected 149 marker in DICT_5X5_250
+IMG_2238.jpg - detected 149 marker in DICT_5X5_250
+IMG_2239.jpg - detected 149 marker in DICT_5X5_250
+IMG_2240.jpg - detected 149 marker in DICT_5X5_250
+IMG_2241.jpg - detected 149 marker in DICT_5X5_250
+IMG_2242.jpg - detected 149 marker in DICT_5X5_250
+IMG_2243.jpg - detected 149 marker in DICT_5X5_250
+IMG_2244.jpg - not detected
+IMG_2245.jpg - detected 149 marker in DICT_5X5_250
+IMG_2246.jpg - not detected
+IMG_2247.jpg - detected 149 marker in DICT_5X5_250
+IMG_2248.jpg - detected 149 marker in DICT_5X5_250
+IMG_2249.jpg - detected 149 marker in DICT_5X5_250
+IMG_2250.jpg - detected 149 marker in DICT_5X5_250
+IMG_2251.jpg - detected 149 marker in DICT_5X5_250
+IMG_2252.jpg - detected 149 marker in DICT_5X5_250
+IMG_2253.jpg - not detected
+IMG_2254.jpg - not detected
+IMG_2255.jpg - not detected
+IMG_2256.jpg - detected 149 marker in DICT_5X5_250
+IMG_2257.jpg - detected 149 marker in DICT_5X5_250
+IMG_2258.jpg - detected 149 marker in DICT_5X5_250
+IMG_2259.jpg - detected 149 marker in DICT_5X5_250
+IMG_2260.jpg - not detected
+IMG_2261.jpg - not detected
+IMG_2262.jpg - not detected
+IMG_2263.jpg - detected 149 marker in DICT_5X5_250
+IMG_2264.jpg - detected 149 marker in DICT_5X5_250
+IMG_2265.jpg - not detected
+IMG_2266.jpg - not detected
+IMG_2267.jpg - not detected
+IMG_2268.jpg - detected 149 marker in DICT_5X5_250
+IMG_2269.jpg - not detected
+IMG_2270.jpg - not detected
+IMG_2271.jpg - detected 149 marker in DICT_5X5_250
+IMG_2272.jpg - detected 149 marker in DICT_5X5_250
+IMG_2273.jpg - detected 149 marker in DICT_5X5_250
+IMG_2274.jpg - detected 149 marker in DICT_5X5_250
+IMG_2275.jpg - detected 149 marker in DICT_5X5_250
+IMG_2276.jpg - detected 149 marker in DICT_5X5_250
+IMG_2277.jpg - detected 149 marker in DICT_5X5_250
+IMG_2278.jpg - detected 149 marker in DICT_5X5_250
+IMG_2279.jpg - detected 149 marker in DICT_5X5_250
+IMG_2280.jpg - not detected
+IMG_2281.jpg - detected 149 marker in DICT_5X5_250
+IMG_2282.jpg - detected 149 marker in DICT_5X5_250
+IMG_2283.jpg - detected 149 marker in DICT_5X5_250
+IMG_2284.jpg - detected 10 marker in DICT_7X7_250
+IMG_2285.jpg - detected 10 marker in DICT_7X7_250
+IMG_2286.jpg - detected 10 marker in DICT_7X7_250
+IMG_2287.jpg - detected 10 marker in DICT_7X7_250
+IMG_2288.jpg - detected 10 marker in DICT_7X7_250
+IMG_2289.jpg - detected 10 marker in DICT_7X7_250
+IMG_2290.jpg - detected 10 marker in DICT_7X7_250
+IMG_2291.jpg - detected 10 marker in DICT_7X7_250
+IMG_2292.jpg - detected 10 marker in DICT_7X7_250
+IMG_2293.jpg - detected 10 marker in DICT_7X7_250
+IMG_2294.jpg - detected 10 marker in DICT_7X7_250
+IMG_2295.jpg - detected 10 marker in DICT_7X7_250
+IMG_2296.jpg - detected 10 marker in DICT_7X7_250
+IMG_2297.jpg - detected 10 marker in DICT_7X7_250
+IMG_2298.jpg - detected 10 marker in DICT_7X7_250
+IMG_2299.jpg - detected 10 marker in DICT_7X7_250
+IMG_2300.jpg - detected 10 marker in DICT_7X7_250
+IMG_2301.jpg - detected 10 marker in DICT_7X7_250
+IMG_2302.jpg - detected 10 marker in DICT_7X7_250
+IMG_2303.jpg - detected 10 marker in DICT_7X7_250
+IMG_2304.jpg - detected 10 marker in DICT_7X7_250
+IMG_2305.jpg - detected 10 marker in DICT_7X7_250
+IMG_2306.jpg - detected 10 marker in DICT_7X7_250
+IMG_2307.jpg - detected 10 marker in DICT_7X7_250
+IMG_2308.jpg - detected 10 marker in DICT_7X7_250
+IMG_2309.jpg - detected 10 marker in DICT_7X7_250
+IMG_2310.jpg - detected 10 marker in DICT_7X7_250
+IMG_2311.jpg - not detected
+IMG_2312.jpg - not detected
+IMG_2313.jpg - not detected
+IMG_2314.jpg - detected 10 marker in DICT_7X7_250
+IMG_2315.jpg - detected 10 marker in DICT_7X7_250
+IMG_2316.jpg - detected 10 marker in DICT_7X7_250
+IMG_2317.jpg - not detected
+IMG_2318.jpg - not detected
+IMG_2319.jpg - not detected
+IMG_2320.jpg - not detected
+IMG_2321.jpg - not detected
+IMG_2322.jpg - not detected
+IMG_2323.jpg - not detected
+IMG_2324.jpg - detected 232 marker in DICT_6X6_250
+IMG_2325.jpg - detected 232 marker in DICT_6X6_250
+IMG_2326.jpg - detected 232 marker in DICT_6X6_250
+IMG_2327.jpg - detected 232 marker in DICT_6X6_250
+IMG_2328.jpg - detected 232 marker in DICT_6X6_250
+IMG_2329.jpg - detected 232 marker in DICT_6X6_250
+IMG_2330.jpg - detected 232 marker in DICT_6X6_250
+IMG_2331.jpg - detected 232 marker in DICT_6X6_250
+IMG_2332.jpg - detected 232 marker in DICT_6X6_250
+IMG_2333.jpg - detected 232 marker in DICT_6X6_250
+IMG_2334.jpg - detected 232 marker in DICT_6X6_250
+IMG_2335.jpg - detected 232 marker in DICT_6X6_250
+IMG_2336.jpg - detected 232 marker in DICT_6X6_250
+IMG_2337.jpg - detected 232 marker in DICT_6X6_250
+IMG_2338.jpg - detected 232 marker in DICT_6X6_250
+IMG_2339.jpg - detected 232 marker in DICT_6X6_250
+IMG_2340.jpg - detected 232 marker in DICT_6X6_250
+IMG_2341.jpg - detected 232 marker in DICT_6X6_250
+IMG_2342.jpg - not detected
+IMG_2343.jpg - detected 232 marker in DICT_6X6_250
+IMG_2344.jpg - detected 232 marker in DICT_6X6_250
+IMG_2345.jpg - detected 232 marker in DICT_6X6_250
+IMG_2346.jpg - detected 232 marker in DICT_6X6_250
+IMG_2347.jpg - detected 232 marker in DICT_6X6_250
+IMG_2348.jpg - detected 232 marker in DICT_6X6_250
+IMG_2349.jpg - detected 232 marker in DICT_6X6_250
+IMG_2350.jpg - detected 232 marker in DICT_6X6_250
+IMG_2351.jpg - not detected
+IMG_2352.jpg - not detected
+IMG_2353.jpg - detected 232 marker in DICT_6X6_250
+IMG_2354.jpg - detected 232 marker in DICT_6X6_250
+IMG_2355.jpg - detected 232 marker in DICT_6X6_250
+IMG_2356.jpg - detected 232 marker in DICT_6X6_250
+IMG_2357.jpg - not detected
+IMG_2358.jpg - not detected
+IMG_2359.jpg - not detected
+IMG_2360.jpg - not detected
+IMG_2361.jpg - not detected
+IMG_2362.jpg - not detected
+IMG_2363.jpg - not detected
+IMG_2364.jpg - detected 102 marker in DICT_5X5_250
+IMG_2365.jpg - detected 102 marker in DICT_5X5_250
+IMG_2366.jpg - detected 102 marker in DICT_5X5_250
+IMG_2367.jpg - detected 102 marker in DICT_5X5_250
+IMG_2368.jpg - detected 102 marker in DICT_5X5_250
+IMG_2369.jpg - detected 102 marker in DICT_5X5_250
+IMG_2370.jpg - detected 102 marker in DICT_5X5_250
+IMG_2371.jpg - detected 102 marker in DICT_5X5_250
+IMG_2372.jpg - detected 102 marker in DICT_5X5_250
+IMG_2373.jpg - detected 102 marker in DICT_5X5_250
+IMG_2374.jpg - detected 102 marker in DICT_5X5_250
+IMG_2375.jpg - detected 102 marker in DICT_5X5_250
+IMG_2376.jpg - detected 102 marker in DICT_5X5_250
+IMG_2377.jpg - detected 102 marker in DICT_5X5_250
+IMG_2378.jpg - detected 102 marker in DICT_5X5_250
+IMG_2379.jpg - detected 102 marker in DICT_5X5_250
+IMG_2380.jpg - detected 102 marker in DICT_5X5_250
+IMG_2381.jpg - detected 102 marker in DICT_5X5_250
+IMG_2382.jpg - detected 102 marker in DICT_5X5_250
+IMG_2383.jpg - detected 102 marker in DICT_5X5_250
+IMG_2384.jpg - detected 102 marker in DICT_5X5_250
+IMG_2385.jpg - detected 17 marker in DICT_4X4_250
+IMG_2386.jpg - detected 102 marker in DICT_5X5_250
+IMG_2387.jpg - detected 102 marker in DICT_5X5_250
+IMG_2388.jpg - detected 102 marker in DICT_5X5_250
+IMG_2389.jpg - detected 102 marker in DICT_5X5_250
+IMG_2390.jpg - detected 102 marker in DICT_5X5_250
+IMG_2391.jpg - detected 102 marker in DICT_5X5_250
+IMG_2392.jpg - detected 102 marker in DICT_5X5_250
+IMG_2393.jpg - detected 102 marker in DICT_5X5_250
+IMG_2394.jpg - detected 102 marker in DICT_5X5_250
+IMG_2395.jpg - detected 102 marker in DICT_5X5_250
+IMG_2396.jpg - detected 102 marker in DICT_5X5_250
+IMG_2397.jpg - not detected
+IMG_2398.jpg - detected 102 marker in DICT_5X5_250
+IMG_2399.jpg - not detected
+IMG_2400.jpg - not detected
+IMG_2401.jpg - not detected
+IMG_2402.jpg - not detected
+IMG_2403.jpg - not detected
+IMG_2404.jpg - detected 166 marker in DICT_4X4_250
+IMG_2405.jpg - detected 166 marker in DICT_4X4_250
+IMG_2406.jpg - detected 166 marker in DICT_4X4_250
+IMG_2407.jpg - detected 166 marker in DICT_4X4_250
+IMG_2408.jpg - detected 166 marker in DICT_4X4_250
+IMG_2409.jpg - detected 166 marker in DICT_4X4_250
+IMG_2410.jpg - detected 166 marker in DICT_4X4_250
+IMG_2411.jpg - detected 166 marker in DICT_4X4_250
+IMG_2412.jpg - detected 166 marker in DICT_4X4_250
+IMG_2413.jpg - detected 166 marker in DICT_4X4_250
+IMG_2414.jpg - detected 166 marker in DICT_4X4_250
+IMG_2415.jpg - detected 166 marker in DICT_4X4_250
+IMG_2416.jpg - detected 166 marker in DICT_4X4_250
+IMG_2417.jpg - detected 166 marker in DICT_4X4_250
+IMG_2418.jpg - detected 166 marker in DICT_4X4_250
+IMG_2419.jpg - detected 166 marker in DICT_4X4_250
+IMG_2420.jpg - detected 166 marker in DICT_4X4_250
+IMG_2421.jpg - detected 166 marker in DICT_4X4_250
+IMG_2422.jpg - detected 166 marker in DICT_4X4_250
+IMG_2423.jpg - detected 166 marker in DICT_4X4_250
+IMG_2424.jpg - detected 166 marker in DICT_4X4_250
+IMG_2425.jpg - detected 166 marker in DICT_4X4_250
+IMG_2426.jpg - detected 166 marker in DICT_4X4_250
+IMG_2427.jpg - detected 166 marker in DICT_4X4_250
+IMG_2428.jpg - detected 166 marker in DICT_4X4_250
+IMG_2429.jpg - not detected
+IMG_2430.jpg - detected 166 marker in DICT_4X4_250
+IMG_2431.jpg - detected 166 marker in DICT_4X4_250
+IMG_2432.jpg - detected 166 marker in DICT_4X4_250
+IMG_2433.jpg - not detected
+IMG_2434.jpg - detected 166 marker in DICT_4X4_250
+IMG_2435.jpg - detected 166 marker in DICT_4X4_250
+IMG_2436.jpg - detected 166 marker in DICT_4X4_250
+IMG_2437.jpg - detected 166 marker in DICT_4X4_250
+IMG_2438.jpg - not detected
+IMG_2439.jpg - not detected
+IMG_2440.jpg - not detected
+IMG_2441.jpg - not detected
+IMG_2442.jpg - not detected
+IMG_2443.jpg - not detected
+IMG_2444.jpg - not detected
+IMG_2445.jpg - not detected
+IMG_2446.jpg - detected 10 marker in DICT_7X7_250
+IMG_2447.jpg - not detected
+IMG_2448.jpg - not detected
+IMG_2449.jpg - detected 10 marker in DICT_7X7_250
+IMG_2450.jpg - detected 10 marker in DICT_7X7_250
+IMG_2451.jpg - detected 10 marker in DICT_7X7_250
+IMG_2452.jpg - detected 10 marker in DICT_7X7_250
+IMG_2453.jpg - detected 10 marker in DICT_7X7_250
+IMG_2454.jpg - detected 10 marker in DICT_7X7_250
+IMG_2455.jpg - detected 10 marker in DICT_7X7_250
+IMG_2456.jpg - detected 10 marker in DICT_7X7_250
+IMG_2457.jpg - detected 10 marker in DICT_7X7_250
+IMG_2458.jpg - detected 10 marker in DICT_7X7_250
+IMG_2459.jpg - detected 10 marker in DICT_7X7_250
+IMG_2460.jpg - detected 10 marker in DICT_7X7_250
+IMG_2461.jpg - detected 10 marker in DICT_7X7_250
+IMG_2462.jpg - detected 10 marker in DICT_7X7_250
+IMG_2463.jpg - not detected
+IMG_2464.jpg - not detected
+IMG_2465.jpg - not detected
+IMG_2466.jpg - not detected
+IMG_2467.jpg - detected 232 marker in DICT_6X6_250
+IMG_2468.jpg - not detected
+IMG_2469.jpg - detected 232 marker in DICT_6X6_250
+IMG_2470.jpg - detected 232 marker in DICT_6X6_250
+IMG_2471.jpg - detected 232 marker in DICT_6X6_250
+IMG_2472.jpg - detected 232 marker in DICT_6X6_250
+IMG_2473.jpg - detected 232 marker in DICT_6X6_250
+IMG_2474.jpg - detected 232 marker in DICT_6X6_250
+IMG_2475.jpg - detected 232 marker in DICT_6X6_250
+IMG_2476.jpg - detected 232 marker in DICT_6X6_250
+IMG_2477.jpg - detected 232 marker in DICT_6X6_250
+IMG_2478.jpg - detected 232 marker in DICT_6X6_250
+IMG_2479.jpg - detected 232 marker in DICT_6X6_250
+IMG_2480.jpg - detected 232 marker in DICT_6X6_250
+IMG_2481.jpg - detected 232 marker in DICT_6X6_250
+IMG_2482.jpg - detected 232 marker in DICT_6X6_250
+IMG_2483.jpg - detected 232 marker in DICT_6X6_250
+IMG_2484.jpg - detected 232 marker in DICT_6X6_250
+IMG_2485.jpg - detected 232 marker in DICT_6X6_250
+IMG_2486.jpg - detected 232 marker in DICT_6X6_250
+IMG_2487.jpg - detected 232 marker in DICT_6X6_250
+IMG_2488.jpg - detected 232 marker in DICT_6X6_250
+IMG_2489.jpg - not detected
+IMG_2490.jpg - not detected
+IMG_2491.jpg - detected 102 marker in DICT_5X5_250
+IMG_2492.jpg - not detected
+IMG_2493.jpg - not detected
+IMG_2494.jpg - detected 102 marker in DICT_5X5_250
+IMG_2495.jpg - detected 102 marker in DICT_5X5_250
+IMG_2496.jpg - detected 102 marker in DICT_5X5_250
+IMG_2497.jpg - detected 102 marker in DICT_5X5_250
+IMG_2498.jpg - detected 102 marker in DICT_5X5_250
+IMG_2499.jpg - detected 102 marker in DICT_5X5_250
+IMG_2500.jpg - detected 102 marker in DICT_5X5_250
+IMG_2501.jpg - detected 102 marker in DICT_5X5_250
+IMG_2502.jpg - detected 102 marker in DICT_5X5_250
+IMG_2503.jpg - detected 102 marker in DICT_5X5_250
+IMG_2504.jpg - detected 102 marker in DICT_5X5_250
+IMG_2505.jpg - detected 102 marker in DICT_5X5_250
+IMG_2506.jpg - detected 102 marker in DICT_5X5_250
+IMG_2507.jpg - detected 102 marker in DICT_5X5_250
+IMG_2508.jpg - detected 102 marker in DICT_5X5_250
+IMG_2509.jpg - detected 102 marker in DICT_5X5_250
+IMG_2510.jpg - detected 102 marker in DICT_5X5_250
+IMG_2511.jpg - detected 102 marker in DICT_5X5_250
+IMG_2512.jpg - detected 102 marker in DICT_5X5_250
+IMG_2513.jpg - not detected
+IMG_2514.jpg - not detected
+IMG_2515.jpg - detected 166 marker in DICT_4X4_250
+IMG_2516.jpg - detected 166 marker in DICT_4X4_250
+IMG_2517.jpg - detected 166 marker in DICT_4X4_250
+IMG_2518.jpg - detected 166 marker in DICT_4X4_250
+IMG_2519.jpg - detected 166 marker in DICT_4X4_250
+IMG_2520.jpg - detected 166 marker in DICT_4X4_250
+IMG_2521.jpg - detected 166 marker in DICT_4X4_250
+IMG_2522.jpg - detected 166 marker in DICT_4X4_250
+IMG_2523.jpg - detected 166 marker in DICT_4X4_250
+IMG_2524.jpg - detected 166 marker in DICT_4X4_250
+IMG_2525.jpg - detected 166 marker in DICT_4X4_250
+IMG_2526.jpg - detected 166 marker in DICT_4X4_250
+IMG_2527.jpg - detected 166 marker in DICT_4X4_250
+IMG_2528.jpg - detected 166 marker in DICT_4X4_250
+IMG_2529.jpg - detected 166 marker in DICT_4X4_250
+IMG_2530.jpg - detected 166 marker in DICT_4X4_250
+IMG_2531.jpg - detected 166 marker in DICT_4X4_250
+IMG_2532.jpg - detected 166 marker in DICT_4X4_250
+IMG_2533.jpg - detected 166 marker in DICT_4X4_250
+IMG_2534.jpg - detected 166 marker in DICT_4X4_250
+IMG_2535.jpg - detected 166 marker in DICT_4X4_250
+IMG_2536.jpg - not detected
+IMG_2537.jpg - detected 166 marker in DICT_4X4_250
+IMG_2538.jpg - not detected
+IMG_2539.jpg - not detected
+IMG_2540.jpg - not detected
