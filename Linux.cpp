@@ -3,6 +3,7 @@
 #include <opencv2/highgui.hpp>
 #include <opencv2/videoio.hpp>
 #include <opencv2/aruco.hpp>
+#include <opencv2/objdetect/aruco_detector.hpp> 
 
 #include <wiringSerial.h>
 
@@ -30,7 +31,7 @@ int main (int argc, char* argv[])
 	    return 2;
 	}
 
-	if (wiringPiSetup () == -1)					/* initializes wiringPi setup */
+	if (wiringPiSetup () == -1)
 	{
 	    std::cout << "Unable to start wiringPi";
 	    return 3;
@@ -38,7 +39,7 @@ int main (int argc, char* argv[])
 
 	const float aruco_size = 0.04f;
 	cv::Mat frame;
-	cv::VideoCapture cam (0);
+	cv::VideoCapture cam (4);
 
 	if (!cam.isOpened ())
 	{
@@ -62,8 +63,10 @@ int main (int argc, char* argv[])
 
 		std::vector<int> markerIds;
 		std::vector<std::vector<cv::Point2f>> markerCorners;
-		cv::Ptr<cv::aruco::Dictionary> markerDictionary = cv::aruco::getPredefinedDictionary (cv::aruco::PREDEFINED_DICTIONARY_NAME::DICT_7X7_50);
-		cv::aruco::detectMarkers (frame, markerDictionary, markerCorners, markerIds);
+		cv::aruco::Dictionary markerDictionary = cv::aruco::getPredefinedDictionary (cv::aruco::DICT_7X7_50);
+		cv::aruco::DetectorParameters detectorParams = cv::aruco::DetectorParameters();
+		cv::aruco::ArucoDetector detector(markerDictionary, detectorParams);
+		detector.detectMarkers (frame, markerCorners, markerIds);
 
 		if (markerIds.size () == 1)
 		{
@@ -95,7 +98,7 @@ int main (int argc, char* argv[])
 			std::cout << "Oxz (pitch): " + std::to_string (beta * 180 / M_PI) << std::endl;
 			std::cout << "Oxy (yaw): " + std::to_string (alpha * 180 / M_PI) << std::endl;
 
-			cv::aruco::drawAxis (frame, cameraMat, distCoefs, rVectors[0], tVectors[0], aruco_size * 1.5f);
+			cv::drawFrameAxes (frame, cameraMat, distCoefs, rVectors[0], tVectors[0], aruco_size * 1.5f, 2);
 
 			//imwrite (argv[1], frame);
 			//std::cout << "Image was saved." << std::endl;
@@ -106,11 +109,6 @@ int main (int argc, char* argv[])
 		}
 		else {
 			serialPutchar(serial, '0');
-		}
-
-		if (cv::waitKey (5) >= 0)
-		{
-			break;
 		}
 	}
 

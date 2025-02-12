@@ -1,0 +1,1 @@
+g++ -std=c++17 Linux.cpp calib.cpp -lopencv_objdetect -lopencv_core -lopencv_aruco -lopencv_highgui -lopencv_imgproc -lopencv_videoio -lopencv_calib3d -lopencv_imgcodecs
