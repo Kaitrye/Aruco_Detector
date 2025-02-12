@@ -4,6 +4,8 @@
 #include <opencv2/videoio.hpp>
 #include <opencv2/aruco.hpp>
 
+#include <wiringSerial.h>
+
 #include <iomanip>
 #include <sstream>
 #include <fstream>
@@ -21,9 +23,21 @@ int main (int argc, char* argv[])
 		return 1;
 	}
 
+	int serial = serialOpen ("/dev/ttyUSB0", 9600));
+	if (serial < 0)
+	{
+	    std::cout << "Unable to open serial device" << std::endl;
+	    return 2;
+	}
+
+	if (wiringPiSetup () == -1)					/* initializes wiringPi setup */
+	{
+	    std::cout << "Unable to start wiringPi";
+	    return 3;
+	}
+
 	const float aruco_size = 0.04f;
 	cv::Mat frame;
-	//cv::VideoCapture cam("https://192.168.25.250:8080/video");
 	cv::VideoCapture cam (0);
 
 	if (!cam.isOpened ())
@@ -32,12 +46,12 @@ int main (int argc, char* argv[])
 		return -1;
 	}
 
-	// загрузка параметров камеры.
+	// Г§Г ГЈГ°ГіГ§ГЄГ  ГЇГ Г°Г Г¬ГҐГІГ°Г®Гў ГЄГ Г¬ГҐГ°Г».
 	cv::Mat distCoefs;
 	cv::Mat cameraMat;
 	loadCamParams ("params.txt", cameraMat, distCoefs);
 
-	// обработка видео, обнаружение маркеров.
+	// Г®ГЎГ°Г ГЎГ®ГІГЄГ  ГўГЁГ¤ГҐГ®, Г®ГЎГ­Г Г°ГіГ¦ГҐГ­ГЁГҐ Г¬Г Г°ГЄГҐГ°Г®Гў.
 	while (true)
 	{
 		if (!cam.read (frame))
@@ -53,6 +67,7 @@ int main (int argc, char* argv[])
 
 		if (markerIds.size () == 1)
 		{
+			serialPutchar(serial, '1');
 			cv::aruco::drawDetectedMarkers (frame, markerCorners, markerIds);
 
 			std::vector<cv::Vec3d> tVectors, rVectors;
@@ -60,11 +75,11 @@ int main (int argc, char* argv[])
 
 			std::cout << "Marker was detected:" << std::endl;
 
-			// Выводим расстояние от маркера до камеры.
+			// Г‚Г»ГўГ®Г¤ГЁГ¬ Г°Г Г±Г±ГІГ®ГїГ­ГЁГҐ Г®ГІ Г¬Г Г°ГЄГҐГ°Г  Г¤Г® ГЄГ Г¬ГҐГ°Г».
 			double dist = sqrt (tVectors[0] (0) * tVectors[0] (0) + tVectors[0] (1) * tVectors[0] (1) + tVectors[0] (2) * tVectors[0] (2));
 			std::cout << "Distance: " << dist << std::endl;
 
-			// Выводим координаты центра камеры.
+			// Г‚Г»ГўГ®Г¤ГЁГ¬ ГЄГ®Г®Г°Г¤ГЁГ­Г ГІГ» Г¶ГҐГ­ГІГ°Г  ГЄГ Г¬ГҐГ°Г».
 			std::cout << "X: " + std::to_string (tVectors[0] (0)) << std::endl;
 			std::cout << "Y: " + std::to_string (tVectors[0] (1)) << std::endl;
 			std::cout << "Z: " + std::to_string (tVectors[0] (2)) << std::endl;
@@ -75,23 +90,23 @@ int main (int argc, char* argv[])
 			double alpha = std::asin (rMatrix.at <double> (1, 0) / std::cos (beta));
 			double gamma = std::asin (rMatrix.at <double> (2, 1) / std::cos (beta));
 
-			// Выводим углы наклона камеры.
+			// Г‚Г»ГўГ®Г¤ГЁГ¬ ГіГЈГ«Г» Г­Г ГЄГ«Г®Г­Г  ГЄГ Г¬ГҐГ°Г».
 			std::cout << "Oyz (roll): " + std::to_string (gamma * 180 / M_PI) << std::endl;
 			std::cout << "Oxz (pitch): " + std::to_string (beta * 180 / M_PI) << std::endl;
 			std::cout << "Oxy (yaw): " + std::to_string (alpha * 180 / M_PI) << std::endl;
 
 			cv::aruco::drawAxis (frame, cameraMat, distCoefs, rVectors[0], tVectors[0], aruco_size * 1.5f);
 
-			imwrite (argv[1], frame);
-			std::cout << "Image was saved." << std::endl;
-
-			break;
+			//imwrite (argv[1], frame);
+			//std::cout << "Image was saved." << std::endl;
 		}
 		else if (markerIds.size () > 1)
 		{
 			std::cout << "There are extra markers" << std::endl;
 		}
-
+		else {
+			serialPutchar(serial, '0');
+		}
 
 		if (cv::waitKey (5) >= 0)
 		{
