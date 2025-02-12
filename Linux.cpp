@@ -24,17 +24,11 @@ int main (int argc, char* argv[])
 		return 1;
 	}
 
-	int serial = serialOpen ("/dev/ttyUSB0", 9600));
+	int serial = serialOpen ("/dev/ttyUSB0", 9600);
 	if (serial < 0)
 	{
 	    std::cout << "Unable to open serial device" << std::endl;
 	    return 2;
-	}
-
-	if (wiringPiSetup () == -1)
-	{
-	    std::cout << "Unable to start wiringPi";
-	    return 3;
 	}
 
 	const float aruco_size = 0.04f;
