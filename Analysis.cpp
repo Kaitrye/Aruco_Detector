@@ -18,11 +18,16 @@
 
 int main (int argc, char* argv[])
 {
+	if (argc < 2){
+		std::cout << "Wrong format. Input: Analysis.cpp output.txt";
+		return -3;
+	}
+
 	const float aruco_size = 0.15f;
 	cv::Mat frame;
 	cv::VideoCapture cam (4);
 
-	std::ofstream outFile("distance_1.txt");
+	std::ofstream outFile(argv[1]);
 	if (!outFile.is_open ())
 	{
 		std::cout << "Can't open file for writing.";
@@ -44,7 +49,7 @@ int main (int argc, char* argv[])
 
 	// îáðàáîòêà âèäåî, îáíàðóæåíèå ìàðêåðîâ.
 	int cnt = 0;
-	while (cnt < 10000)
+	while (cnt < 5000)
 	{
 		if (!cam.read (frame))
 		{
