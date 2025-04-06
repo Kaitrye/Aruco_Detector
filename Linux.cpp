@@ -31,7 +31,7 @@ int main (int argc, char* argv[])
 	    return 2;
 	}
 
-	const float aruco_size = 0.04f;
+	const float aruco_size = 0.15f;
 	cv::Mat frame;
 	cv::VideoCapture cam (4);
 
@@ -64,7 +64,6 @@ int main (int argc, char* argv[])
 
 		if (markerIds.size () == 1)
 		{
-			serialPutchar(serial, '1');
 			cv::aruco::drawDetectedMarkers (frame, markerCorners, markerIds);
 
 			std::vector<cv::Vec3d> tVectors, rVectors;
@@ -75,7 +74,16 @@ int main (int argc, char* argv[])
 			// Âûâîäèì ðàññòîÿíèå îò ìàðêåðà äî êàìåðû.
 			double dist = sqrt (tVectors[0] (0) * tVectors[0] (0) + tVectors[0] (1) * tVectors[0] (1) + tVectors[0] (2) * tVectors[0] (2));
 			std::cout << "Distance: " << dist << std::endl;
-
+			
+			if (dist > 0.5)
+			{ 
+				serialPutchar(serial, '1');
+			}
+                        else 
+			{
+				serialPutchar(serial, '0');
+			}
+			
 			// Âûâîäèì êîîðäèíàòû öåíòðà êàìåðû.
 			std::cout << "X: " + std::to_string (tVectors[0] (0)) << std::endl;
 			std::cout << "Y: " + std::to_string (tVectors[0] (1)) << std::endl;
